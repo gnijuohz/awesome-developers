@@ -1,0 +1,174 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #eee;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.4;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f4f3f1;
+  padding: 5px;
+}
+
+.left-buttons {
+  flex-basis: 20%;
+}
+
+.header-title {
+  font-size: 1.5em;
+  flex: 1 60%;
+  text-align: center;
+}
+
+.right-buttons {
+  font-size: 1.4em;
+  flex-basis: 20%;
+  align-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+a {
+  text-decoration: none;
+  color: #129889;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  align-self: center;
+  margin: 25px auto;
+}
+
+.search .search-icon {
+  margin-left: -20px;
+  color: gray;
+}
+
+#searchInput {
+  align-self: center;
+  flex: 1;
+  min-width: 250px;
+  max-width: 400px;
+  border-radius: 0 2px 2px 0;
+  border: 1px solid hsla(31,15%,50%,.25);
+  padding: .5em .75em;
+}
+
+.people {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.person {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff;
+  margin: 10px 10px;
+  padding: 5px 10px;
+  border-radius: 3px;
+}
+
+.person .name {
+  font-size: 20px;
+}
+
+.person .info {
+  display: flex;
+  justify-content: center;
+}
+
+.person .keywords {
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.person .keywords span {
+  margin: 5px;
+  background-color: rgba(129,195,131,0.5) ;
+  border-radius: 2px;
+  padding: 2px 3px;
+  cursor: pointer;
+}
+
+.person .info a {
+  font-size: 16px;
+  margin: 0 8px;
+}
+
+@media (min-width: 768px) {
+  .header-title {
+    font-size: 1.8em;
+  }
+  .right-buttons {
+    font-size: 1.6em;
+  }
+  .people {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .person {
+    flex-direction: column;
+  }
+  .person .name {
+    font-weight: bold;
+    margin-bottom: 4px;
+  }
+  .person .info {
+    display: flex;
+  }
+}
+
+h2.title {
+  text-align: center;
+}
+
+.post-list {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.post-item {
+  background-color: #fff;
+  border-radius: 3px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.post-item a {
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+}
+
+p {
+  font-size: 14px;
+  max-width: 400px;
+}
+
+@media (max-width: 767px) {
+  p {
+    font-size: 12px;
+  }
+}

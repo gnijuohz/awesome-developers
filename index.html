@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./styles/style.css">
+    <title>Awesome Developers</title>
+  </head>
+  <body>
+    <header>
+      <div class="header">
+        <div class="left-buttons"></div>
+        <div class="header-title"> Awesome Developers </div>
+        <div class="right-buttons">
+          <a class="fa fa-github" href="https://github.com/gnijuohz/awesome-developers"></a>
+        </div>
+      </div>
+    </header>
+    <div class="container">
+      <div id="app">
+          <div class="search">
+            <input id="searchInput" v-model="searchText" placeholder="search">
+            <span class="fa fa-search search-icon"></span>
+          </div>
+          <div class="people">
+            <awesome-person v-for="person in filteredPeople" v-bind:person="person"></awesome-person>
+          </div>
+        </div>
+    </div>
+    <script type="x-template" id="person">
+      <div class="person">
+        <div class="name"> <a :href="githubUrl" target="_blank"> {{person.name}} </a>  </div>
+        <div class="info">
+          <a :href="githubUrl" target="_blank"><span class="fa fa-github" aria-hidden="true"></span></a>
+          <a v-if="hasTwitter" :href="twitterUrl" target="_blank"><span class="fa fa-twitter" aria-hidden="true"></span></a>
+          <a v-if="hasWeibo" :href="weiboUrl" target="_blank"><span class="fa fa-weibo" aria-hidden="true"></span></a>
+          <a v-if="hasBlog" :href="person.blog" target="_blank"><span class="fa fa-rss" aria-hidden="true"></span></a>
+        </div>
+        <div class="keywords">
+          <span class="keyword" v-for="keyword in keywords"> {{keyword}} </span>
+        </div>
+      </div>
+    </script>
+    <script src="https://unpkg.com/vue/dist/vue.js"></script>
+    <script src="./scripts/fetch.js"></script>
+    <script src="./scripts/script.js"></script>
+  </body>
+</html>
