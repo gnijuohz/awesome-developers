@@ -57,8 +57,8 @@ Vue.component('awesome-person', {
       return `https://twitter.com/${this.person.twitter}`
     },
     zhihuUrl: function() {
-      if (this.person.zhihu.indexOf('http') === 0) return this.person.zhuhu;
-      return `https://zhihu.com/${this.person.zhihu}`
+      if (this.person.zhihu.indexOf('http') === 0) return this.person.zhihu
+      return `https://zhihu.com/people/${this.person.zhihu}`
     },
     mediumUrl: function() {
       return `https://medium.com/@${this.person.medium}`
