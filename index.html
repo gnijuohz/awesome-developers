@@ -30,12 +30,14 @@
     </div>
     <script type="x-template" id="person">
       <div class="person">
-        <div class="name"> <a :href="githubUrl" target="_blank"> {{person.name}} </a>  </div>
+        <div class="name"> <a :href="githubUrl" target="_blank"> {{person.name||person.github}} </a>  </div>
         <div class="info">
           <a :href="githubUrl" target="_blank"><span class="fa fa-github" aria-hidden="true"></span></a>
           <a v-if="hasTwitter" :href="twitterUrl" target="_blank"><span class="fa fa-twitter" aria-hidden="true"></span></a>
           <a v-if="hasWeibo" :href="weiboUrl" target="_blank"><span class="fa fa-weibo" aria-hidden="true"></span></a>
           <a v-if="hasBlog" :href="person.blog" target="_blank"><span class="fa fa-rss" aria-hidden="true"></span></a>
+          <a v-if="hasZhihu" :href="person.zhihuUrl" target="_blank"><span class=""><i class="fa">知</i></span></a>
+          <a v-if="hasMedium" :href="person.mediumUrl" target="_blank"><span class="fa fa-medium"></span></a>
         </div>
         <div class="keywords">
           <span class="keyword" v-for="keyword in keywords"> {{keyword}} </span>

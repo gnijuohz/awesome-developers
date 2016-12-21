@@ -14126,12 +14126,12 @@
       "email": "iam@visualidiot.com",
       "location": "UK",
       "blogFeed": "http://visualidiot.com/rss",
-      "twitter": "",
+      "twitter": "idiot",
       "weibo": "",
       "zhihu": "",
       "quora": "",
       "medium": "",
-      "keywords": []
+      "keywords": ["Web", "Design"]
     },
     {
       "github": "ZhaoKaiQiang",
@@ -14440,13 +14440,13 @@
       "name": "Zhi Cun",
       "email": "island205@gmail.com",
       "location": "Shanghai China",
-      "blogFeed": "",
+      "blogFeed": "http://qianduan.guru/feed.xml",
       "twitter": "",
-      "weibo": "",
-      "zhihu": "",
+      "weibo": "5368192199",
+      "zhihu": "https://zhuanlan.zhihu.com/FrontendMagazine",
       "quora": "",
       "medium": "",
-      "keywords": []
+      "keywords": ["Frontend", "JavaScript", "Nodejs"]
     },
     {
       "github": "michalbe",
@@ -15945,7 +15945,7 @@
       "githubAvatar": "https://avatars.githubusercontent.com/u/32269?v=3",
       "githubURL": "https://github.com/iissnan",
       "githubApiURL": "https://api.github.com/users/iissnan",
-      "blog": "http://iissnan.com",
+      "blog": "http://notes.iissnan.com/",
       "bio": "",
       "company": "",
       "gitHubFollowers": 964,

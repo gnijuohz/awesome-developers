@@ -124,7 +124,8 @@ a {
   }
   .people {
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
+    margin: 0 50px;
   }
   .person {
     flex-direction: column;

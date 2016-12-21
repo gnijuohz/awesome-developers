@@ -18,7 +18,7 @@ const app = new Vue({
     }
   },
   mounted: function() {
-    fetch('https://gist.githubusercontent.com/gnijuohz/32d57fe22afd5dc6c3118d3fb0d56fe0/raw/b7ff74618b3e03e0a88375b1ec2b6a0d2e3e3958/test.json').then(response => response.json()).then(value => {
+    fetch('https://raw.githubusercontent.com/gnijuohz/awesome-developers/master/people.json').then(response => response.json()).then(value => {
       this.people = value.people
     }, function(err) {
       console.log(err)
@@ -36,10 +36,16 @@ Vue.component('awesome-person', {
       return !!this.person.blog
     },
     hasTwitter: function() {
-      return !!this.person.twitter.length
+      return !!this.person.twitter
     },
     hasWeibo: function() {
-      return !!this.person.weibo.length
+      return !!this.person.weibo
+    },
+    hasZhihu: function() {
+      return !!this.person.zhihu
+    },
+    hasMedium: function() {
+      return !!this.person.medium
     },
     githubUrl: function() {
       return `https://github.com/${this.person.github}`
@@ -49,6 +55,13 @@ Vue.component('awesome-person', {
     },
     twitterUrl: function() {
       return `https://twitter.com/${this.person.twitter}`
+    },
+    zhihuUrl: function() {
+      if (this.person.zhihu.indexOf('http') === 0) return this.person.zhuhu;
+      return `https://zhihu.com/${this.person.zhihu}`
+    },
+    mediumUrl: function() {
+      return `https://medium.com/@${this.person.medium}`
     },
     keywords: function() {
       return this.person.keywords
