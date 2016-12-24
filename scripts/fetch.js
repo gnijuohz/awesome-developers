@@ -1,5 +1,5 @@
 (function(self) {
-  'use strict'
+  'use strict';
 
   if (self.fetch) {
     return
@@ -182,7 +182,7 @@
     var view = new Uint8Array(buf)
     var chars = new Array(view.length)
 
-    for (var i = 0 i < view.length i++) {
+    for (var i = 0; i < view.length; i++) {
       chars[i] = String.fromCharCode(view[i])
     }
     return chars.join('')
@@ -225,11 +225,11 @@
 
       if (!this.headers.get('content-type')) {
         if (typeof body === 'string') {
-          this.headers.set('content-type', 'text/plaincharset=UTF-8')
+          this.headers.set('content-type', 'text/plain;charset=UTF-8')
         } else if (this._bodyBlob && this._bodyBlob.type) {
           this.headers.set('content-type', this._bodyBlob.type)
         } else if (support.searchParams && URLSearchParams.prototype.isPrototypeOf(body)) {
-          this.headers.set('content-type', 'application/x-www-form-urlencodedcharset=UTF-8')
+          this.headers.set('content-type', 'application/x-www-form-urlencoded;charset=UTF-8')
         }
       }
     }
@@ -355,7 +355,7 @@
 
   function parseHeaders(rawHeaders) {
     var headers = new Headers()
-    rawHeaders.split('\r\n').forEach(function(line) {
+    rawHeaders.split(/\r?\n/).forEach(function(line) {
       var parts = line.split(':')
       var key = parts.shift().trim()
       if (key) {
@@ -455,4 +455,4 @@
     })
   }
   self.fetch.polyfill = true
-})(typeof self !== 'undefined' ? self : this)
+})(typeof self !== 'undefined' ? self : this);
