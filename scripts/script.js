@@ -1,6 +1,7 @@
 const awesomeDev = new Vue({
   el: '#app',
   data: {
+    loading: true,
     people: [],
     searchText: ''
   },
@@ -19,6 +20,7 @@ const awesomeDev = new Vue({
   },
   mounted: function() {
     fetch('https://raw.githubusercontent.com/gnijuohz/awesome-developers/master/people.json').then(response => response.json()).then(value => {
+      this.loading = false
       this.people = value.people
     }, function(err) {
       console.log(err)

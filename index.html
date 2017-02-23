@@ -23,6 +23,7 @@
             <input id="searchInput" v-model="searchText" placeholder="search">
             <span class="fa fa-search search-icon"></span>
           </div>
+          <i  v-show="loading" class="fa fa-spinner fa-spin"></i>
           <div class="people">
             <awesome-person v-for="person in filteredPeople" v-bind:person="person"></awesome-person>
           </div>

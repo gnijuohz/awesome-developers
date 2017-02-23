@@ -49,6 +49,12 @@ a {
   justify-content: flex-start;
 }
 
+#app .fa-spinner {
+  width: 3em;
+  height: 3em;
+  margin: 5em auto;
+}
+
 .search {
   display: flex;
   align-items: center;
@@ -98,16 +104,7 @@ a {
 }
 
 .person .keywords {
-  font-size: 14px;
-  margin-top: 10px;
-}
-
-.person .keywords span {
-  margin: 5px;
-  background-color: rgba(129,195,131,0.5) ;
-  border-radius: 2px;
-  padding: 2px 3px;
-  cursor: pointer;
+  display: none;
 }
 
 .person .info a {
@@ -136,6 +133,18 @@ a {
   }
   .person .info {
     display: flex;
+  }
+  .person .keywords {
+    display: block;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  .person .keywords span {
+    margin: 5px;
+    background-color: rgba(129,195,131,0.5) ;
+    border-radius: 2px;
+    padding: 2px 3px;
+    cursor: pointer;
   }
 }
 
