@@ -1,4 +1,4 @@
-const app = new Vue({
+const awesomeDev = new Vue({
   el: '#app',
   data: {
     people: [],
