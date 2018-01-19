@@ -1,0 +1,13 @@
+{
+  "name": "awesome-developers",
+  "version": "1.0.0",
+  "description": "a list of awesome developers to follow",
+  "main": "index.js",
+  "repository": "git@github.com:gnijuohz/awesome-developers.git",
+  "author": "<gnijuohz@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "eslint-config-google": "^0.9.1"
+  }
+}

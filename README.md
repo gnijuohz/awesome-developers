@@ -1,7 +1,8 @@
 
 # Awesome Developers
 
-*WIP*: A list of most *popular* (by follower count) developers on Github with their social media accounts info listed so you can follow (stalk) them ;)
+*WIP*: A list of most *popular* (by follower count) developers on Github
+with their social media accounts info listed so you can follow (stalk) them ;)
 
 Contribution welcome. Data is located in `people.json`.
 
@@ -35,7 +36,7 @@ Contribution welcome. Data is located in `people.json`.
 - Yin Wang: [Github](https://github.com/yinwang0)
 - David Heinemeier Hansson: [Github](https://github.com/dhh), [Blog](http://david.heinemeierhansson.com)
 - Chris Banes: [Github](https://github.com/chrisbanes), [Blog](http://chris.banes.me)
-- lifesinger: [Github](https://github.com/lifesinger)
+- lifesinger: [Github](https://github.com/lifesinger), [Weibo](https://weibo.com/lifesinger)
 - Mr.doob: [Github](https://github.com/mrdoob), [Blog](http://mrdoob.com)
 - Lea Verou: [Github](https://github.com/LeaVerou), [Blog](http://lea.verou.me)
 - 云风: [Github](https://github.com/cloudwu), [Blog](http://blog.codingnow.com)
@@ -89,7 +90,7 @@ Contribution welcome. Data is located in `people.json`.
 - Nicholas C. Zakas: [Github](https://github.com/nzakas), [Blog](http://www.nczonline.net/)
 - Mark Murphy: [Github](https://github.com/commonsguy), [Blog](http://commonsware.com)
 - Yukihiro "Matz" Matsumoto: [Github](https://github.com/matz)
-- 张云龙: [Github](https://github.com/fouber), [Blog](https://github.com/fouber/blog)
+- 张云龙: [Github](https://github.com/fouber), [Weibo](https://weibo.com/fouber), [Blog](https://github.com/fouber/blog)
 - Zach Holman: [Github](https://github.com/holman), [Blog](http://zachholman.com)
 - Tang Qiao: [Github](https://github.com/tangqiaoboy), [Blog](http://blog.devtang.com)
 - Ilya Grigorik: [Github](https://github.com/igrigorik), [Blog](https://www.igvita.com)
@@ -215,7 +216,7 @@ Contribution welcome. Data is located in `people.json`.
 - Moxie Marlinspike: [Github](https://github.com/moxie0), [Blog](http://www.thoughtcrime.org)
 - Kyle Kingsbury: [Github](https://github.com/aphyr), [Blog](http://aphyr.com)
 - Chris Lattner: [Github](https://github.com/lattner), [Blog](http://nondot.org/sabre/)
-- Jake Archibald: [Github](https://github.com/jakearchibald)
+- Jake Archibald: [Github](https://github.com/jakearchibald), [Blog](https://jakearchibald.com)
 - victor felder: [Github](https://github.com/vhf), [Blog](https://draft.li/blog)
 - Tianqi Chen: [Github](https://github.com/tqchen), [Blog](http://homes.cs.washington.edu/~tqchen/)
 - Fernando Cejas: [Github](https://github.com/android10), [Blog](http://www.fernandocejas.com/)

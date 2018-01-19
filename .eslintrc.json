@@ -1,0 +1,12 @@
+{
+    "extends": "google",
+    "env": {
+        "node": true,
+        "browser": true,
+        "es6": true
+    },
+    "rules": {
+        "indent": ["error", 2],
+        "object-curly-spacing": ["error", "always"]
+    }
+}
