@@ -9,5 +9,8 @@
   "devDependencies": {
     "eslint": "^4.15.0",
     "eslint-config-google": "^0.9.1"
+  },
+  "dependencies": {
+    "octonode": "^0.9.1"
   }
 }
