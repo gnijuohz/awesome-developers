@@ -14,7 +14,7 @@ const awesomeDev = new Vue({
       return this.people.filter((person) => {
         return (
           person.name.toLowerCase().indexOf(searchText) !== -1 ||
-          person.keywords.some((keyword) => {
+          person.tech.some((keyword) => {
             return keyword.toLowerCase().indexOf(searchText) !== -1;
           })
         );
@@ -62,8 +62,8 @@ Vue.component('awesome-person', {
     mediumUrl: function() {
       return `https://medium.com/@${this.person.medium}`;
     },
-    keywords: function() {
-      return this.person.keywords;
+    tech: function() {
+      return this.person.tech;
     },
   },
   template: '#person',
