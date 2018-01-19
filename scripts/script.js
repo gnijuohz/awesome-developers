@@ -50,27 +50,14 @@ Vue.component('awesome-person', {
     hasTwitter: function() {
       return !!this.person.twitter;
     },
-    hasWeibo: function() {
-      return !!this.person.weibo;
-    },
-    hasZhihu: function() {
-      return !!this.person.zhihu;
-    },
     hasMedium: function() {
       return !!this.person.medium;
     },
     githubUrl: function() {
       return `https://github.com/${this.person.github}`;
     },
-    weiboUrl: function() {
-      return `https://weibo.com/${this.person.weibo}`;
-    },
     twitterUrl: function() {
       return `https://twitter.com/${this.person.twitter}`;
-    },
-    zhihuUrl: function() {
-      if (this.person.zhihu.indexOf('http') === 0) return this.person.zhihu;
-      return `https://zhihu.com/people/${this.person.zhihu}`;
     },
     mediumUrl: function() {
       return `https://medium.com/@${this.person.medium}`;
