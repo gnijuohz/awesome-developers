@@ -5,7 +5,7 @@
       "name": "Linus Torvalds",
       "company": "Linux Foundation",
       "bio": "",
-      "twitter": "",
+      "twitter": "Linus__Torvalds",
       "medium": "",
       "blog": "",
       "tech": []
@@ -15,7 +15,7 @@
       "name": "Jake Wharton",
       "company": "Square, Inc.",
       "bio": "",
-      "twitter": "",
+      "twitter": "JakeWharton",
       "medium": "",
       "blog": "http://jakewharton.com",
       "tech": []
@@ -25,7 +25,7 @@
       "name": "Ruan YiFeng",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "ruanyf",
       "medium": "",
       "blog": "https://twitter.com/ruanyf",
       "tech": []
@@ -35,7 +35,7 @@
       "name": "TJ Holowaychuk",
       "company": "Apex",
       "bio": "Founder of Apex\r\nhttps://apex.sh\r\n@tjholowaychuk on Twitter & Medium.",
-      "twitter": "",
+      "twitter": "tjholowaychuk",
       "medium": "",
       "blog": "http://tjholowaychuk.com",
       "tech": []
@@ -45,7 +45,7 @@
       "name": "Addy Osmani",
       "company": "Google",
       "bio": "Engineer at Google working on Chrome & Web Platform",
-      "twitter": "",
+      "twitter": "addyosmani",
       "medium": "",
       "blog": "https://www.addyosmani.com",
       "tech": []
@@ -55,7 +55,7 @@
       "name": "Evan You",
       "company": "",
       "bio": "Creator of @vuejs, previously @meteor & @google",
-      "twitter": "",
+      "twitter": "youyuxi",
       "medium": "",
       "blog": "http://evanyou.me",
       "tech": []
@@ -75,9 +75,9 @@
       "name": "Dan Abramov",
       "company": "@facebook ",
       "bio": "Co-authored Redux, Create React App, React Hot Loader, React DnD. Helping improve @reactjs.",
-      "twitter": "",
+      "twitter": "dan_abramov",
       "medium": "",
-      "blog": "http://twitter.com/dan_abramov",
+      "blog": "",
       "tech": []
     },
     {
@@ -85,9 +85,9 @@
       "name": "Sindre Sorhus",
       "company": "@avajs @chalk @yeoman",
       "bio": "┈╭━━━━━━━━━━━╮┈\r\n┈┃╭━━━╮┊╭━━━╮┃┈\r\n╭┫┃┈🦄┈┃┃┈🦄┈┃┣╮\r\n┃┃╰━━━╯┊╰━━━╯┃┃\r\n╰┫╭━╮╰━━━╯╭━╮┣╯\r\n┈┃┃┣┳┳┳┳┳┳┳┫┃┃┈\r\n┈┃┃╰┻┻┻┻┻┻┻╯┃┃┈\r\n┈╰━━━━━━━━━━━╯┈",
-      "twitter": "",
+      "twitter": "sindresorhus",
       "medium": "",
-      "blog": "https://twitter.com/sindresorhus",
+      "blog": "",
       "tech": []
     },
     {
@@ -95,7 +95,7 @@
       "name": "Tom Preston-Werner",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "mojombo",
       "medium": "",
       "blog": "http://tom.preston-werner.com",
       "tech": []
@@ -105,9 +105,9 @@
       "name": "代码家",
       "company": "Beijing Normal University",
       "bio": "Yeah, make a good App .",
-      "twitter": "",
+      "twitter": "daimajia",
       "medium": "",
-      "blog": "https://twitter.com/daimajia",
+      "blog": "",
       "tech": []
     },
     {
@@ -115,7 +115,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "kennethreitz",
       "medium": "",
       "blog": "",
       "tech": []
@@ -135,7 +135,7 @@
       "name": "Mike Bostock",
       "company": "",
       "bio": "I design tools for humans. Creator of @d3. Former @nytgraphics editor.",
-      "twitter": "",
+      "twitter": "mbostock",
       "medium": "",
       "blog": "http://bost.ocks.org",
       "tech": []
@@ -145,7 +145,7 @@
       "name": "Chris Wanstrath",
       "company": "@github ",
       "bio": "🍔 ",
-      "twitter": "",
+      "twitter": "defunkt",
       "medium": "",
       "blog": "http://chriswanstrath.com/",
       "tech": []
@@ -165,7 +165,7 @@
       "name": "Mark Otto",
       "company": "GitHub",
       "bio": "Director of Design at @GitHub. Creator of Bootstrap (@twbs). Previously at Twitter. Huge nerd.",
-      "twitter": "",
+      "twitter": "mdo",
       "medium": "",
       "blog": "http://mdo.fm",
       "tech": []
@@ -175,9 +175,9 @@
       "name": "Andrej",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "karpathy",
       "medium": "",
-      "blog": "twitter.com/karpathy",
+      "blog": "",
       "tech": []
     },
     {
@@ -185,7 +185,7 @@
       "name": "Jackson Tian",
       "company": "Alibaba",
       "bio": "",
-      "twitter": "",
+      "twitter": "JacksonTian",
       "medium": "",
       "blog": "http://diveintonode.org/",
       "tech": []
@@ -195,7 +195,7 @@
       "name": "Bucky Roberts",
       "company": "thenewboston",
       "bio": "linkedin.com/in/buckyroberts",
-      "twitter": "",
+      "twitter": "bucky_roberts",
       "medium": "",
       "blog": "https://thenewboston.com/",
       "tech": []
@@ -205,9 +205,9 @@
       "name": "John Resig",
       "company": "@Khan ",
       "bio": "",
-      "twitter": "",
+      "twitter": "jeresig",
       "medium": "",
-      "blog": "http://ejohn.org/",
+      "blog": "https://johnresig.com/",
       "tech": []
     },
     {
@@ -215,7 +215,7 @@
       "name": "Mattt",
       "company": "@apple",
       "bio": "",
-      "twitter": "",
+      "twitter": "mattt",
       "medium": "",
       "blog": "",
       "tech": []
@@ -245,7 +245,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "getify",
       "medium": "",
       "blog": "",
       "tech": []
@@ -275,7 +275,7 @@
       "name": "James Halliday",
       "company": "bits.coop",
       "bio": "",
-      "twitter": "",
+      "twitter": "substack",
       "medium": "",
       "blog": "http://substack.net/",
       "tech": []
@@ -285,7 +285,7 @@
       "name": "Hadley Wickham",
       "company": "@rstudio ",
       "bio": "",
-      "twitter": "",
+      "twitter": "hadley",
       "medium": "",
       "blog": "http://hadley.nz",
       "tech": []
@@ -305,7 +305,7 @@
       "name": "Chris Banes",
       "company": "Google UK",
       "bio": "",
-      "twitter": "",
+      "twitter": "chrisbanes",
       "medium": "",
       "blog": "http://chris.banes.me",
       "tech": []
@@ -315,7 +315,7 @@
       "name": "lifesinger",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "lifesinger",
       "medium": "",
       "blog": "",
       "tech": []
@@ -325,7 +325,7 @@
       "name": "Taylor Otwell",
       "company": "Laravel",
       "bio": "Creator of the @laravel framework. Creator of Forge and Envoyer.",
-      "twitter": "",
+      "twitter": "taylorotwell",
       "medium": "",
       "blog": "http://laravel.com",
       "tech": []
@@ -335,7 +335,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "cloudwu",
       "medium": "",
       "blog": "",
       "tech": []
@@ -345,7 +345,7 @@
       "name": "David Heinemeier Hansson",
       "company": "Basecamp",
       "bio": "",
-      "twitter": "",
+      "twitter": "dhh",
       "medium": "",
       "blog": "http://david.heinemeierhansson.com",
       "tech": []
@@ -355,7 +355,7 @@
       "name": "Jeremy Ashkenas",
       "company": "The New York Times / Graphics",
       "bio": "",
-      "twitter": "",
+      "twitter": "jashkenas",
       "medium": "",
       "blog": "http://ashkenas.com",
       "tech": []
@@ -365,7 +365,7 @@
       "name": "Yin Wang",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "yinwang0",
       "medium": "",
       "blog": "",
       "tech": []
@@ -375,7 +375,7 @@
       "name": "clowwindy",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "clowwindy",
       "medium": "",
       "blog": "",
       "tech": []
@@ -405,7 +405,7 @@
       "name": "Mr.doob",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "mrdoob",
       "medium": "",
       "blog": "http://mrdoob.com",
       "tech": []
@@ -425,7 +425,7 @@
       "name": "Armin Ronacher",
       "company": "",
       "bio": "Software developer and Open Source nut. Creator of the Flask framework. Contributing to @getsentry and running @pallets and @lektor ",
-      "twitter": "",
+      "twitter": "mitsuhiko",
       "medium": "",
       "blog": "http://lucumr.pocoo.org/",
       "tech": []
@@ -435,7 +435,7 @@
       "name": "Lea Verou",
       "company": "MIT",
       "bio": "",
-      "twitter": "",
+      "twitter": "LeaVerou",
       "medium": "",
       "blog": "http://lea.verou.me",
       "tech": []
@@ -475,7 +475,7 @@
       "name": "John Papa",
       "company": "JohnPapa.net, LLC",
       "bio": "",
-      "twitter": "",
+      "twitter": "john_papa",
       "medium": "",
       "blog": "http://johnpapa.net",
       "tech": []
@@ -485,7 +485,7 @@
       "name": "Tim Pope",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "tpope",
       "medium": "",
       "blog": "https://tpo.pe/",
       "tech": []
@@ -505,7 +505,7 @@
       "name": "Xinchen Hui",
       "company": "Lianjia",
       "bio": "PHP Stylite",
-      "twitter": "",
+      "twitter": "laruence",
       "medium": "",
       "blog": "http://www.laruence.com",
       "tech": []
@@ -515,7 +515,7 @@
       "name": "破娃酱",
       "company": "",
       "bio": "二次元|喵星人|技術宅|學生|膜法少女|沒有威嚴的大小姐|啥都好說，偶爾写写程式_(•̀ω•́ 」∠)__。最近壓力山大，因為天天被罵人品差和智障。喜歡玩遊戲、聊天。歡迎來撩，喜歡我请fo然后。。。",
-      "twitter": "",
+      "twitter": "breakwa11",
       "medium": "",
       "blog": "https://github.com/breakwa11/shadowsocks-rss",
       "tech": []
@@ -525,7 +525,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "astaxie",
       "medium": "",
       "blog": "",
       "tech": []
@@ -535,7 +535,7 @@
       "name": "Carbo Kuo",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "BYVoid",
       "medium": "",
       "blog": "http://www.byvoid.com",
       "tech": []
@@ -545,7 +545,7 @@
       "name": "Salvatore Sanfilippo",
       "company": "Redis Labs",
       "bio": "",
-      "twitter": "",
+      "twitter": "antirez",
       "medium": "",
       "blog": "http://invece.org",
       "tech": []
@@ -555,7 +555,7 @@
       "name": "Yehuda Katz",
       "company": "Tilde, Inc.",
       "bio": "",
-      "twitter": "",
+      "twitter": "wycats",
       "medium": "",
       "blog": "http://yehudakatz.com",
       "tech": []
@@ -575,7 +575,7 @@
       "name": "Roman Nurik",
       "company": "Google",
       "bio": "",
-      "twitter": "",
+      "twitter": "romannurik",
       "medium": "",
       "blog": "http://roman.nurik.net",
       "tech": []
@@ -585,7 +585,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "justjavac",
       "medium": "",
       "blog": "",
       "tech": []
@@ -595,7 +595,7 @@
       "name": "PJ Hyett",
       "company": "GitHub, Inc.",
       "bio": "",
-      "twitter": "",
+      "twitter": "pjhyett",
       "medium": "",
       "blog": "https://hyett.com",
       "tech": []
@@ -615,7 +615,7 @@
       "name": "Hakim El Hattab",
       "company": "Slides",
       "bio": "Swedish JavaScript coder and CSS tweaker • Co-founder of @slides ",
-      "twitter": "",
+      "twitter": "hakimel",
       "medium": "",
       "blog": "http://hakim.se",
       "tech": []
@@ -625,17 +625,17 @@
       "name": "小鱼",
       "company": "ELE.ME",
       "bio": "still hiring creatives",
-      "twitter": "",
+      "twitter": "sofish",
       "medium": "",
       "blog": "http://sofi.sh",
       "tech": []
     },
     {
       "github": "isaacs",
-      "name": "isaacs",
+      "name": "Isaac Z. Schlueter",
       "company": "npm, Inc.",
       "bio": "npm inventor and CEO.\r\nEarly contributor and former BDFL of Node.js.\r\nAuthor of many JavaScripts.\r\nBeen making internets for a pretty long time.",
-      "twitter": "",
+      "twitter": "izs",
       "medium": "",
       "blog": "http://blog.izs.me",
       "tech": []
@@ -645,7 +645,7 @@
       "name": "Fabien Potencier",
       "company": "SensioLabs",
       "bio": "",
-      "twitter": "",
+      "twitter": "fabpot",
       "medium": "",
       "blog": "http://fabien.potencier.org/",
       "tech": []
@@ -655,9 +655,9 @@
       "name": "fat",
       "company": "bumpers",
       "bio": "",
-      "twitter": "",
+      "twitter": "fat",
       "medium": "",
-      "blog": "http://twitter.com/fat",
+      "blog": "",
       "tech": []
     },
     {
@@ -665,7 +665,7 @@
       "name": "Yichun Zhang",
       "company": "CloudFlare",
       "bio": "The Creator of OpenResty",
-      "twitter": "",
+      "twitter": "agentzh",
       "medium": "",
       "blog": "http://agentzh.org",
       "tech": []
@@ -675,7 +675,7 @@
       "name": "Huqiu Liao",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "liaohuqiu",
       "medium": "",
       "blog": "http://liaohuqiu.net",
       "tech": []
@@ -695,7 +695,7 @@
       "name": "José Valim",
       "company": "Plataformatec",
       "bio": "",
-      "twitter": "",
+      "twitter": "josevalim",
       "medium": "",
       "blog": "http://blog.plataformatec.com.br/",
       "tech": []
@@ -705,7 +705,7 @@
       "name": "Mu-An ✌️ Chiou",
       "company": "GitHub",
       "bio": "Taiwan #1.",
-      "twitter": "",
+      "twitter": "muanchiou",
       "medium": "",
       "blog": "http://muan.co/",
       "tech": []
@@ -725,7 +725,7 @@
       "name": "Daniel Shiffman",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "shiffman",
       "medium": "",
       "blog": "http://www.shiffman.net",
       "tech": []
@@ -765,7 +765,7 @@
       "name": "编程随想",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "programthink",
       "medium": "",
       "blog": "https://program-think.blogspot.com/",
       "tech": []
@@ -775,7 +775,7 @@
       "name": "Feross Aboukhadijeh",
       "company": "Non-profit WebTorrent",
       "bio": "⭐⭐⭐⭐⭐ Mad Scientist",
-      "twitter": "",
+      "twitter": "feross",
       "medium": "",
       "blog": "http://feross.org",
       "tech": []
@@ -785,7 +785,7 @@
       "name": "Koushik Dutta",
       "company": "ClockworkMod",
       "bio": "",
-      "twitter": "",
+      "twitter": "koush",
       "medium": "",
       "blog": "koush.com",
       "tech": []
@@ -795,7 +795,7 @@
       "name": "Charlie Somerville",
       "company": "GitHub",
       "bio": "",
-      "twitter": "",
+      "twitter": "charliesome",
       "medium": "",
       "blog": "https://charlie.bz",
       "tech": []
@@ -805,7 +805,7 @@
       "name": "Wes Bos",
       "company": "Self Employed, JavaScript/Design Consultant",
       "bio": "I create courses that make learning things like JavaScript easy and fun 🔥",
-      "twitter": "",
+      "twitter": "wesbos",
       "medium": "",
       "blog": "www.wesbos.com",
       "tech": []
@@ -815,7 +815,7 @@
       "name": "José Moreira",
       "company": "",
       "bio": "full-stack developer, ui/ux designer, musician & diy entusiast",
-      "twitter": "",
+      "twitter": "cusspvz",
       "medium": "",
       "blog": "https://facebook.com/cusshht",
       "tech": []
@@ -825,7 +825,7 @@
       "name": "Tekkub",
       "company": "",
       "bio": "Just a lazy tanuki that likes to tinker",
-      "twitter": "",
+      "twitter": "tekkub",
       "medium": "",
       "blog": "http://www.tekkub.net",
       "tech": []
@@ -835,7 +835,7 @@
       "name": "Aaron Patterson",
       "company": "GitHub",
       "bio": "💘💙💜💗💚❤💓💛💚💗",
-      "twitter": "",
+      "twitter": "tenderlove",
       "medium": "",
       "blog": "http://tenderlovemaking.com/",
       "tech": []
@@ -865,7 +865,7 @@
       "name": "Hsiaoming Yang",
       "company": "yuehu.io",
       "bio": "",
-      "twitter": "",
+      "twitter": "lepture",
       "medium": "",
       "blog": "http://lepture.com",
       "tech": []
@@ -875,7 +875,7 @@
       "name": "Sebastian Raschka",
       "company": "Michigan State University",
       "bio": "'Data Scientist' and Machine Learning enthusiast with a big passion for Python & open source. Author of 'Python Machine Learning'. Michigan State University.",
-      "twitter": "",
+      "twitter": "rasbt",
       "medium": "",
       "blog": "http://sebastianraschka.com",
       "tech": []
@@ -885,7 +885,7 @@
       "name": "Chris Coyier",
       "company": "CodePen",
       "bio": "",
-      "twitter": "",
+      "twitter": "chriscoyier",
       "medium": "",
       "blog": "http://css-tricks.com",
       "tech": []
@@ -895,7 +895,7 @@
       "name": "Nicolas Gallagher",
       "company": "Twitter",
       "bio": "",
-      "twitter": "",
+      "twitter": "necolas",
       "medium": "",
       "blog": "http://nicolasgallagher.com",
       "tech": []
@@ -915,7 +915,7 @@
       "name": "Tang Qiao",
       "company": "Yuanfudao",
       "bio": "I am an iOS developer working on a startup company named Yuanfudao. ",
-      "twitter": "",
+      "twitter": "tangqiaoboy",
       "medium": "",
       "blog": "http://blog.devtang.com",
       "tech": []
@@ -925,7 +925,7 @@
       "name": "Romain Guy",
       "company": "Google",
       "bio": "Android UI and graphics engineer at Google.",
-      "twitter": "",
+      "twitter": "romainguy",
       "medium": "",
       "blog": "http://www.curious-creature.com",
       "tech": []
@@ -935,7 +935,7 @@
       "name": "Guillermo Rauch",
       "company": "https://zeit.co",
       "bio": "",
-      "twitter": "",
+      "twitter": "rauchg",
       "medium": "",
       "blog": "http://twitter.com/rauchg",
       "tech": []
@@ -945,7 +945,7 @@
       "name": "Ilya Grigorik",
       "company": "Google",
       "bio": "Web performance engineer at @Google, co-chair of the @w3c Web Performance Working Group. In short, internet plumber.",
-      "twitter": "",
+      "twitter": "igrigorik",
       "medium": "",
       "blog": "https://www.igvita.com",
       "tech": []
@@ -975,7 +975,7 @@
       "name": "Mark Murphy",
       "company": "CommonsWare",
       "bio": "",
-      "twitter": "",
+      "twitter": "commonsguy",
       "medium": "",
       "blog": "http://commonsware.com",
       "tech": []
@@ -985,7 +985,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "benbalter",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1005,7 +1005,7 @@
       "name": "Jess Frazelle",
       "company": "",
       "bio": "Keyser Söze of containers.",
-      "twitter": "",
+      "twitter": "jessfraz",
       "medium": "",
       "blog": "https://blog.jessfraz.com",
       "tech": []
@@ -1025,7 +1025,7 @@
       "name": "Zeno Rocha",
       "company": "Liferay, Inc.",
       "bio": "born to create and share.",
-      "twitter": "",
+      "twitter": "zenorocha",
       "medium": "",
       "blog": "http://zenorocha.com",
       "tech": []
@@ -1035,7 +1035,7 @@
       "name": "Mitchell Hashimoto",
       "company": "HashiCorp",
       "bio": "",
-      "twitter": "",
+      "twitter": "mitchellh",
       "medium": "",
       "blog": "http://mitchellh.com",
       "tech": []
@@ -1045,7 +1045,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "jakevdp",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1095,7 +1095,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "holman",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1105,7 +1105,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "fengmk2",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1145,7 +1145,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "toddmotto",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1165,7 +1165,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "jtleek",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1185,7 +1185,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "laracasts",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1195,7 +1195,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "loiane",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1205,7 +1205,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "crnacura",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1215,7 +1215,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "rdpeng",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1235,7 +1235,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "bradfitz",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1245,7 +1245,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "fchollet",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1255,7 +1255,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "remy",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1275,7 +1275,7 @@
       "name": "Miguel Grinberg",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "miguelgrinberg",
       "medium": "",
       "blog": "http://blog.miguelgrinberg.com",
       "tech": []
@@ -1315,7 +1315,7 @@
       "name": "Nick Lockwood",
       "company": "Charcoal Design",
       "bio": "",
-      "twitter": "",
+      "twitter": "nicklockwood",
       "medium": "",
       "blog": "http://charcoaldesign.co.uk",
       "tech": []
@@ -1325,7 +1325,7 @@
       "name": "David DeSandro",
       "company": "Metafizzy",
       "bio": "Designer, developer making UI libraries @metafizzy",
-      "twitter": "",
+      "twitter": "desandro",
       "medium": "",
       "blog": "http://desandro.com",
       "tech": []
@@ -1345,7 +1345,7 @@
       "name": "Scott Hanselman",
       "company": "@Microsoft ",
       "bio": "",
-      "twitter": "",
+      "twitter": "shanselman",
       "medium": "",
       "blog": "http://www.hanselman.com",
       "tech": []
@@ -1375,7 +1375,7 @@
       "name": "Cheng Zhao",
       "company": "GitHub",
       "bio": "",
-      "twitter": "",
+      "twitter": "zcbenz",
       "medium": "",
       "blog": "http://cheng.guru",
       "tech": []
@@ -1385,7 +1385,7 @@
       "name": "George Hotz",
       "company": "geohot LLC",
       "bio": "We will win self driving cars.",
-      "twitter": "",
+      "twitter": "geohot",
       "medium": "",
       "blog": "https://soundcloud.com/tomcr00se",
       "tech": []
@@ -1395,7 +1395,7 @@
       "name": "Kelsey Hightower",
       "company": "Google, Inc",
       "bio": "",
-      "twitter": "",
+      "twitter": "kelseyhightower",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1405,7 +1405,7 @@
       "name": "Jaana Burcu Dogan",
       "company": "Google Inc",
       "bio": "I am working on tooling and devexp for Go, currently involved more in instrumentation, diagnostics and profiling.",
-      "twitter": "",
+      "twitter": "rakyll",
       "medium": "",
       "blog": "http://golang.rakyll.org",
       "tech": []
@@ -1415,7 +1415,7 @@
       "name": "Steve Francia",
       "company": "@Google",
       "bio": "@golang at @Google • Author, Speaker, Developer • Creator of Hugo, Cobra & spf13-vim • former Docker & MongoDB",
-      "twitter": "",
+      "twitter": "spf13",
       "medium": "",
       "blog": "http://spf13.com",
       "tech": []
@@ -1435,7 +1435,7 @@
       "name": "Milo Yip",
       "company": "Tencent",
       "bio": "",
-      "twitter": "",
+      "twitter": "miloyip",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1445,7 +1445,7 @@
       "name": "Alan Hamlett",
       "company": "@wakatime",
       "bio": "Founder @WakaTime\r\nhttps://wakatime.com",
-      "twitter": "",
+      "twitter": "alanhamlett",
       "medium": "",
       "blog": "http://ahamlett.com/resume.html",
       "tech": []
@@ -1465,7 +1465,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "dennybritz",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1475,7 +1475,7 @@
       "name": "Guido van Rossum",
       "company": "Dropbox, Inc.",
       "bio": "",
-      "twitter": "",
+      "twitter": "gvanrossum",
       "medium": "",
       "blog": "http://python.org/~guido/",
       "tech": []
@@ -1495,7 +1495,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "creationix",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1565,7 +1565,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "kevinsawicki",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1595,7 +1595,7 @@
       "name": "Harry Roberts",
       "company": "CSS Wizardry",
       "bio": "Consultant Front-end Architect • @inuitcss Lead",
-      "twitter": "",
+      "twitter": "csswizardry",
       "medium": "",
       "blog": "http://csswizardry.com",
       "tech": []
@@ -1615,7 +1615,7 @@
       "name": "Alex Gaynor",
       "company": "United States Digital Service",
       "bio": "I program computers. Currently working @usds in Washington DC and opening up some sources in my free time.",
-      "twitter": "",
+      "twitter": "alex",
       "medium": "",
       "blog": "https://alexgaynor.net",
       "tech": []
@@ -1635,7 +1635,7 @@
       "name": "Cyril Mottier",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "cyrilmottier",
       "medium": "",
       "blog": "http://www.cyrilmottier.com",
       "tech": []
@@ -1655,7 +1655,7 @@
       "name": "Kent C. Dodds",
       "company": "PayPal",
       "bio": "Making software dev more accessible · Mormon, Husband, Father, Teacher · OSS, GDE, @TC39 · @PayPal @eggheadio @FrontendMasters @JavaScriptAir React30 · #JS",
-      "twitter": "",
+      "twitter": "kentcdodds",
       "medium": "",
       "blog": "https://kentcdodds.com",
       "tech": []
@@ -1665,7 +1665,7 @@
       "name": "Eric Bidelman",
       "company": "Google",
       "bio": "Googler. Working with the Chrome team on all things web.",
-      "twitter": "",
+      "twitter": "ebidel",
       "medium": "",
       "blog": "ericbidelman.com",
       "tech": []
@@ -1675,7 +1675,7 @@
       "name": "Sam Soffes",
       "company": "Nothing Magical",
       "bio": "Swift Developer",
-      "twitter": "",
+      "twitter": "soffes",
       "medium": "",
       "blog": "http://soff.es",
       "tech": []
@@ -1775,7 +1775,7 @@
       "name": "Minko Gechev",
       "company": "",
       "bio": "Functional time traveler.",
-      "twitter": "",
+      "twitter": "mgechev",
       "medium": "",
       "blog": "http://blog.mgechev.com/",
       "tech": []
@@ -1785,7 +1785,7 @@
       "name": "HuKai",
       "company": "Tencent Inc.",
       "bio": "",
-      "twitter": "",
+      "twitter": "kesenhoo",
       "medium": "",
       "blog": "http://hukai.me",
       "tech": []
@@ -1795,7 +1795,7 @@
       "name": "Taehoon Kim",
       "company": "UNIST",
       "bio": "",
-      "twitter": "",
+      "twitter": "carpedm20",
       "medium": "",
       "blog": "http://carpedm20.github.io/",
       "tech": []
@@ -1805,7 +1805,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "alsotang",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1825,7 +1825,7 @@
       "name": "Monica Dinculescu",
       "company": "Google",
       "bio": "I'm your favourite developer's favourite developer.\r\n\r\n🙋 github.com/notwaldorf/ama",
-      "twitter": "",
+      "twitter": "notwaldorf",
       "medium": "",
       "blog": "https://twitter.com/notwaldorf",
       "tech": []
@@ -1845,7 +1845,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "joshlong",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1865,7 +1865,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "huacnlee",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1885,7 +1885,7 @@
       "name": "Hao Chen",
       "company": "",
       "bio": "芝兰生于空谷，不以无人而不芳。",
-      "twitter": "",
+      "twitter": "haoel",
       "medium": "",
       "blog": "http://coolshell.cn",
       "tech": []
@@ -1895,7 +1895,7 @@
       "name": "Andrew Clark",
       "company": "Facebook",
       "bio": "Front-end engineer at Facebook. Co-creator of Redux. Creator of Recompose. Hi!",
-      "twitter": "",
+      "twitter": "acdlite",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1905,7 +1905,7 @@
       "name": "Rich Hickey",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "richhickey",
       "medium": "",
       "blog": "http://clojure.org",
       "tech": []
@@ -1925,7 +1925,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "mxcl",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1955,7 +1955,7 @@
       "name": "Alex MacCaw",
       "company": "Clearbit",
       "bio": "Clearbit CEO",
-      "twitter": "",
+      "twitter": "maccman",
       "medium": "",
       "blog": "http://alexmaccaw.com",
       "tech": []
@@ -1965,7 +1965,7 @@
       "name": "James K",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "thejameskyle",
       "medium": "",
       "blog": "",
       "tech": []
@@ -1975,7 +1975,7 @@
       "name": "Mikeal Rogers",
       "company": "Node.js Foundation",
       "bio": "Creator of NodeConf and request.",
-      "twitter": "",
+      "twitter": "mikeal",
       "medium": "",
       "blog": "http://mikealrogers.com",
       "tech": []
@@ -1985,7 +1985,7 @@
       "name": "Justin Johnson",
       "company": "Stanford University",
       "bio": "",
-      "twitter": "",
+      "twitter": "jcjohnson",
       "medium": "",
       "blog": "http://cs.stanford.edu/people/jcjohns/",
       "tech": []
@@ -1995,7 +1995,7 @@
       "name": "Mathias Buus",
       "company": "",
       "bio": "Rød grød med fløde",
-      "twitter": "",
+      "twitter": "mafintosh",
       "medium": "",
       "blog": "https://github.com/mafintosh",
       "tech": []
@@ -2005,7 +2005,7 @@
       "name": "Peter Steinberger",
       "company": "CEO, PSPDFKit GmbH",
       "bio": "I love pushing the limits of Cocoa Touch and the runtime. Working on @PSPDFKit, the most advanced PDF framework for iOS, Android and soon your Browser.",
-      "twitter": "",
+      "twitter": "steipete",
       "medium": "",
       "blog": "http://petersteinberger.com",
       "tech": []
@@ -2015,7 +2015,7 @@
       "name": "Steve Klabnik",
       "company": "",
       "bio": "All i'm trying to do is enjoy every day to the fullest with my Pokémon.",
-      "twitter": "",
+      "twitter": "steveklabnik",
       "medium": "",
       "blog": "http://words.steveklabnik.com/",
       "tech": []
@@ -2055,7 +2055,7 @@
       "name": "James Smith",
       "company": "Bugsnag",
       "bio": "",
-      "twitter": "",
+      "twitter": "loopj",
       "medium": "",
       "blog": "http://loopj.com",
       "tech": []
@@ -2115,7 +2115,7 @@
       "name": "梁杰",
       "company": "",
       "bio": "Front-end, Python, Swift. Translate and publish several books. Organizer of @atConf, @SwiftGGTeam, @Code-T. Just for fun!",
-      "twitter": "",
+      "twitter": "numbbbbb",
       "medium": "",
       "blog": "http://numbbbbb.com",
       "tech": []
@@ -2125,7 +2125,7 @@
       "name": "Phil Sturgeon",
       "company": "WeWork",
       "bio": "Software Engineer @WeWork. Author of @apisyouwonthate. Chief T-Shirt Officer at http://madeinproduction.com. All about bikes and turtles.",
-      "twitter": "",
+      "twitter": "philsturgeon",
       "medium": "",
       "blog": "https://philsturgeon.uk/",
       "tech": []
@@ -2175,7 +2175,7 @@
       "name": "Miško Hevery",
       "company": "Google",
       "bio": "",
-      "twitter": "",
+      "twitter": "mhevery",
       "medium": "",
       "blog": "http://misko.hevery.com",
       "tech": []
@@ -2185,7 +2185,7 @@
       "name": "Rico Sta. Cruz",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "rstacruz",
       "medium": "",
       "blog": "http://ricostacruz.com",
       "tech": []
@@ -2205,7 +2205,7 @@
       "name": "Kevin",
       "company": "Catch Inc",
       "bio": "Code Design and Crafts",
-      "twitter": "",
+      "twitter": "kevinzhow",
       "medium": "",
       "blog": "http://blog.zhowkev.in",
       "tech": []
@@ -2255,7 +2255,7 @@
       "name": "Ryan Florence",
       "company": "React.js Training",
       "bio": "",
-      "twitter": "",
+      "twitter": "ryanflorence",
       "medium": "",
       "blog": "http://twitter.com/ryanflorence",
       "tech": []
@@ -2275,7 +2275,7 @@
       "name": "Sam Stephenson",
       "company": "Basecamp",
       "bio": "",
-      "twitter": "",
+      "twitter": "sstephenson",
       "medium": "",
       "blog": "http://sstephenson.us/",
       "tech": []
@@ -2295,7 +2295,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "kamranahmedse",
       "medium": "",
       "blog": "",
       "tech": []
@@ -2305,7 +2305,7 @@
       "name": "David Nolen",
       "company": "Cognitect, Inc.",
       "bio": "",
-      "twitter": "",
+      "twitter": "swannodette",
       "medium": "",
       "blog": "http://swannodette.github.io",
       "tech": []
@@ -2335,7 +2335,7 @@
       "name": "Mike Ash",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "mikeash",
       "medium": "",
       "blog": "http://mikeash.com/",
       "tech": []
@@ -2355,7 +2355,7 @@
       "name": "John-David Dalton",
       "company": "",
       "bio": "JavaScript tinkerer, bug fixer, & benchmark runner • Creator of lodash • Former Chakra Perf PM • Current Web Apps & Frameworks PM @Microsoft.",
-      "twitter": "",
+      "twitter": "jdalton",
       "medium": "",
       "blog": "http://allyoucanleet.com",
       "tech": []
@@ -2365,7 +2365,7 @@
       "name": "Sara Soueidan",
       "company": "Freelancer",
       "bio": "",
-      "twitter": "",
+      "twitter": "SaraSoueidan",
       "medium": "",
       "blog": "http://sarasoueidan.com",
       "tech": []
@@ -2395,7 +2395,7 @@
       "name": "Nathan Marz",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "nathanmarz",
       "medium": "",
       "blog": "http://nathanmarz.com",
       "tech": []
@@ -2405,7 +2405,7 @@
       "name": "Lex Tang",
       "company": "nonda.co",
       "bio": "Programmer, OCD, pixel pusher",
-      "twitter": "",
+      "twitter": "lexrus",
       "medium": "",
       "blog": "http://lexrus.com/",
       "tech": []
@@ -2415,7 +2415,7 @@
       "name": "Domenic Denicola",
       "company": "Google",
       "bio": "",
-      "twitter": "",
+      "twitter": "domenic",
       "medium": "",
       "blog": "https://domenic.me/",
       "tech": []
@@ -2425,7 +2425,7 @@
       "name": "Allen Downey",
       "company": "Olin College of Engineering",
       "bio": "",
-      "twitter": "",
+      "twitter": "AllenDowney",
       "medium": "",
       "blog": "http://allendowney.com",
       "tech": []
@@ -2485,7 +2485,7 @@
       "name": "Kyle Kingsbury",
       "company": "@jepsen-io ",
       "bio": "",
-      "twitter": "",
+      "twitter": "aphyr",
       "medium": "",
       "blog": "http://aphyr.com",
       "tech": []
@@ -2495,7 +2495,7 @@
       "name": "Jeff Lindsay",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "progrium",
       "medium": "",
       "blog": "progrium.com",
       "tech": []
@@ -2505,7 +2505,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "developit",
       "medium": "",
       "blog": "",
       "tech": []
@@ -2515,7 +2515,7 @@
       "name": "Aidan Follestad",
       "company": "Target HQ",
       "bio": "A young, professional mobile, web, and backend developer based in Minneapolis, Minnesota. Also a drummer, rock/metal fan, and car enthusiast. Checkout my site!",
-      "twitter": "",
+      "twitter": "afollestad",
       "medium": "",
       "blog": "https://aidanfollestad.com",
       "tech": []
@@ -2525,7 +2525,7 @@
       "name": "Easy",
       "company": "GeekCompany.net",
       "bio": "",
-      "twitter": "",
+      "twitter": "easychen",
       "medium": "",
       "blog": "http://ftqq.com",
       "tech": []
@@ -2555,7 +2555,7 @@
       "name": "evilcos",
       "company": "xeyeteam",
       "bio": "//:ALERT(/HACKING SYMBOL/)//余弦",
-      "twitter": "",
+      "twitter": "evilcos",
       "medium": "",
       "blog": "evilcos.me",
       "tech": []
@@ -2565,7 +2565,7 @@
       "name": "狼叔",
       "company": "",
       "bio": "桑世龙（网名i5ting），前XX公司CTO，StuQ 明星讲师，开源项目 Moajs 作者，Node.js 技术布道者\r\n曾就职在新浪、网秦，曾做过前端、后端、数据分析、移动端负责人、做过首席架构师、技术总监，全栈技术实践者，目前主要关注技术架构和团队梯队建设方向。",
-      "twitter": "",
+      "twitter": "i5ting",
       "medium": "",
       "blog": "i5ting.com",
       "tech": []
@@ -2585,7 +2585,7 @@
       "name": "Ben Alman",
       "company": "Bocoup",
       "bio": "",
-      "twitter": "",
+      "twitter": "cowboy",
       "medium": "",
       "blog": "http://benalman.com/",
       "tech": []
@@ -2615,7 +2615,7 @@
       "name": "Erica Sadun",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "erica",
       "medium": "",
       "blog": "http://ericasadun.com",
       "tech": []
@@ -2625,7 +2625,7 @@
       "name": "Tobias Koppers",
       "company": "",
       "bio": "Author of webpack",
-      "twitter": "",
+      "twitter": "sokra",
       "medium": "",
       "blog": "",
       "tech": []
@@ -2635,7 +2635,7 @@
       "name": "Alexis Sellier",
       "company": "Not Available",
       "bio": "/dev/fnord",
-      "twitter": "",
+      "twitter": "cloudhead",
       "medium": "",
       "blog": "http://cloudhead.io",
       "tech": []
@@ -2645,7 +2645,7 @@
       "name": "黄健宏",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "huangz1990",
       "medium": "",
       "blog": "huangz.me",
       "tech": []
@@ -2675,7 +2675,7 @@
       "name": "Hilary Mason",
       "company": "Fast Forward Labs",
       "bio": "",
-      "twitter": "",
+      "twitter": "hmason",
       "medium": "",
       "blog": "http://www.hilarymason.com",
       "tech": []
@@ -2695,7 +2695,7 @@
       "name": "James Montemagno",
       "company": "Microsoft",
       "bio": "Live, love, bike, and code.\r\n\r\nPrincipal Program Manager, Mobile Developer Tools @Microsoft",
-      "twitter": "",
+      "twitter": "jamesmontemagno",
       "medium": "",
       "blog": "motz.codes",
       "tech": []
@@ -2705,7 +2705,7 @@
       "name": "唐鳳",
       "company": "@g0v ",
       "bio": "Taiwan's Digital Minister.",
-      "twitter": "",
+      "twitter": "audreyt",
       "medium": "",
       "blog": "http://www.linkedin.com/in/tangaudrey",
       "tech": []
@@ -2715,7 +2715,7 @@
       "name": "Felix Krause",
       "company": "Twitter",
       "bio": "Professional iOS Code Signing Issue Resolver - Developer of @fastlane ",
-      "twitter": "",
+      "twitter": "KrauseFx",
       "medium": "",
       "blog": "https://krausefx.com",
       "tech": []
@@ -2755,7 +2755,7 @@
       "name": "Zed A. Shaw",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "zedshaw",
       "medium": "",
       "blog": "http://zedshaw.com/",
       "tech": []
@@ -2785,7 +2785,7 @@
       "name": "Ash Furrow",
       "company": "Artsy",
       "bio": "Writing software with my whole heart.",
-      "twitter": "",
+      "twitter": "ashfurrow",
       "medium": "",
       "blog": "https://ashfurrow.com/",
       "tech": []
@@ -2835,7 +2835,7 @@
       "name": "Gary Bernhardt",
       "company": "Destroy All Software LLC",
       "bio": "",
-      "twitter": "",
+      "twitter": "garybernhardt",
       "medium": "",
       "blog": "http://destroyallsoftware.com",
       "tech": []
@@ -2865,7 +2865,7 @@
       "name": "Christophe Coenraets",
       "company": "Salesforce.com",
       "bio": "",
-      "twitter": "",
+      "twitter": "ccoenraets",
       "medium": "",
       "blog": "http://coenraets.org",
       "tech": []
@@ -2885,7 +2885,7 @@
       "name": "Jordi Boggiano",
       "company": "Packagist",
       "bio": "Working on https://packagist.com and https://teamup.com - @composer lead - Wandering Belgian - OSS wishlist: https://seld.be/wishlist",
-      "twitter": "",
+      "twitter": "Seldaek",
       "medium": "",
       "blog": "https://seld.be/",
       "tech": []
@@ -2895,7 +2895,7 @@
       "name": "Karan Goel",
       "company": "Google",
       "bio": "Little brown guy with big dreams. https://twitter.com/karangoel",
-      "twitter": "",
+      "twitter": "karan",
       "medium": "",
       "blog": "http://goel.io",
       "tech": []
@@ -2905,7 +2905,7 @@
       "name": "Brendan Eich",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "BrendanEich",
       "medium": "",
       "blog": "https://www.brendaneich.com/",
       "tech": []
@@ -2915,7 +2915,7 @@
       "name": "Felix Geisendörfer",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "felixge",
       "medium": "",
       "blog": "http://felixge.de/",
       "tech": []
@@ -2935,7 +2935,7 @@
       "name": "Qitao Yang",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "KittenYang",
       "medium": "",
       "blog": "http://kittenyang.com",
       "tech": []
@@ -2945,7 +2945,7 @@
       "name": "颜海镜",
       "company": "Baidu",
       "bio": "less is more",
-      "twitter": "",
+      "twitter": "yanhaijing",
       "medium": "",
       "blog": "http://yanhaijing.com",
       "tech": []
@@ -2955,7 +2955,7 @@
       "name": "Bozhidar Batsov",
       "company": "Toptal",
       "bio": "",
-      "twitter": "",
+      "twitter": "bbatsov",
       "medium": "",
       "blog": "http://batsov.com",
       "tech": []
@@ -2965,7 +2965,7 @@
       "name": "Joyee Cheung",
       "company": "Alibaba Cloud",
       "bio": "Spelled as Qiuyi Zhang in Mandarin.",
-      "twitter": "",
+      "twitter": "joyeecheung",
       "medium": "",
       "blog": "https://twitter.com/JoyeeCheung",
       "tech": []
@@ -2975,7 +2975,7 @@
       "name": "shu223",
       "company": "",
       "bio": "iOS Programmer",
-      "twitter": "",
+      "twitter": "shu223",
       "medium": "",
       "blog": "https://medium.com/@shu223/",
       "tech": []
@@ -3015,7 +3015,7 @@
       "name": "Brian Caffo",
       "company": "Johns Hopkins University Department of Biostatistics",
       "bio": "",
-      "twitter": "",
+      "twitter": "bcaffo",
       "medium": "",
       "blog": "www.bcaffo.com",
       "tech": []
@@ -3045,7 +3045,7 @@
       "name": "Donn Felker",
       "company": "Android GDE. Android Book Author. Consultant, Speaker & Advisor.",
       "bio": "Best Selling Mobile Dev Author. Android GDE. Android Consultant. Co-Host of the Fragmented Podcast. Teaching Android at Caster.IO.  Remote workforce advocate.",
-      "twitter": "",
+      "twitter": "donnfelker",
       "medium": "",
       "blog": "http://www.donnfelker.com",
       "tech": []
@@ -3065,7 +3065,7 @@
       "name": "Rei",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "chloerei",
       "medium": "",
       "blog": "http://chloerei.com",
       "tech": []
@@ -3075,7 +3075,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "sophiebits",
       "medium": "",
       "blog": "",
       "tech": []
@@ -3085,7 +3085,7 @@
       "name": "Anders Hejlsberg",
       "company": "Microsoft",
       "bio": "",
-      "twitter": "",
+      "twitter": "ahejlsberg",
       "medium": "",
       "blog": "",
       "tech": []
@@ -3115,7 +3115,7 @@
       "name": "Ray Villalobos",
       "company": "LinkedIn",
       "bio": "Ray Villalobos is a full-stack design/development instructor at LinkedIn. Helping you improve your skills through real-world exercises and projects.",
-      "twitter": "",
+      "twitter": "planetoftheweb",
       "medium": "",
       "blog": "http://raybo.org",
       "tech": []
@@ -3165,7 +3165,7 @@
       "name": "Steve Kondik",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "cyanogen",
       "medium": "",
       "blog": "http://www.cyanogenmod.com",
       "tech": []
@@ -3175,7 +3175,7 @@
       "name": "Michael Hartl",
       "company": "Ruby on Rails Tutorial, Learn Enough to Be Dangerous",
       "bio": "",
-      "twitter": "",
+      "twitter": "mhartl",
       "medium": "",
       "blog": "http://michaelhartl.com/",
       "tech": []
@@ -3185,7 +3185,7 @@
       "name": "Fatih Arslan",
       "company": "@DigitalOcean",
       "bio": "Software Engineer. Gopher and Coffee geek. Author of vim-go. Tool maker.",
-      "twitter": "",
+      "twitter": "fatih",
       "medium": "",
       "blog": "https://medium.com/@farslan",
       "tech": []
@@ -3215,7 +3215,7 @@
       "name": "Juriy Zaytsev",
       "company": "Facebook",
       "bio": "Ever tried, ever failed, no matter. Try again, fail again, fail better.",
-      "twitter": "",
+      "twitter": "kangax",
       "medium": "",
       "blog": "http://perfectionkills.com",
       "tech": []
@@ -3235,7 +3235,7 @@
       "name": "王浩",
       "company": "",
       "bio": "自助者天助之。",
-      "twitter": "",
+      "twitter": "bingoogolapple",
       "medium": "",
       "blog": "http://www.bingoogolapple.cn",
       "tech": []
@@ -3265,7 +3265,7 @@
       "name": "Leah Culver",
       "company": "Dropbox",
       "bio": "",
-      "twitter": "",
+      "twitter": "leah",
       "medium": "",
       "blog": "http://leahculver.com/",
       "tech": []
@@ -3295,7 +3295,7 @@
       "name": "Igor Minar",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "IgorMinar",
       "medium": "",
       "blog": "http://blog.igorminar.com/",
       "tech": []
@@ -3325,7 +3325,7 @@
       "name": "MICHAEL JACKSON",
       "company": "",
       "bio": "Thriller. Co-founder of @ReactTraining.",
-      "twitter": "",
+      "twitter": "mjackson",
       "medium": "",
       "blog": "http://mjackson.me",
       "tech": []
@@ -3335,7 +3335,7 @@
       "name": "Katrina Owen",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "kytrinyx",
       "medium": "",
       "blog": "",
       "tech": []
@@ -3355,7 +3355,7 @@
       "name": "Justin Spahr-Summers",
       "company": "@Facebook",
       "bio": "",
-      "twitter": "",
+      "twitter": "jspahrsummers",
       "medium": "",
       "blog": "http://jspahrsummers.com",
       "tech": []
@@ -3375,7 +3375,7 @@
       "name": "Simone Margaritelli",
       "company": "Zimperium",
       "bio": "INTP :: Hacker :: I break stuff to make the world a safer place.",
-      "twitter": "",
+      "twitter": "evilsocket",
       "medium": "",
       "blog": "http://www.evilsocket.net/",
       "tech": []
@@ -3385,7 +3385,7 @@
       "name": "Emil Sjölander",
       "company": "Facebook",
       "bio": "",
-      "twitter": "",
+      "twitter": "emilsjolander",
       "medium": "",
       "blog": "http://twitter.com/emilsjolander",
       "tech": []
@@ -3395,7 +3395,7 @@
       "name": "Nathan Rajlich",
       "company": "",
       "bio": "Programmer / Nerd. @nodejs core committer. Formerly @cloudup, @automattic. Before you ask, I'm 6’6”",
-      "twitter": "",
+      "twitter": "TooTallNate",
       "medium": "",
       "blog": "http://n8.io",
       "tech": []
@@ -3405,7 +3405,7 @@
       "name": "Kevin Markham",
       "company": "Data School",
       "bio": "Founder of Data School",
-      "twitter": "",
+      "twitter": "justmarkham",
       "medium": "",
       "blog": "http://www.dataschool.io",
       "tech": []
@@ -3435,7 +3435,7 @@
       "name": "Max Stoiber",
       "company": "@mxstbr",
       "bio": "🌍 Travels around the world, brews coffee, skis mountains and makes stuff on the web. Open source developer (@KeystoneJS @ElementalUI) and part of @react-vienna",
-      "twitter": "",
+      "twitter": "mxstbr",
       "medium": "",
       "blog": "http://mxstbr.com",
       "tech": []
@@ -3445,7 +3445,7 @@
       "name": "Robby Russell",
       "company": "Planet Argon, LLC",
       "bio": "Managing Partner @PlanetArgon. “Aging” Ruby on Rails dev. Creator of @ohmyzsh. Guitarist. Vinyl collector. Scotch enthusiast. Wine sipper. Writer. Explorer.",
-      "twitter": "",
+      "twitter": "robbyrussell",
       "medium": "",
       "blog": "http://planetargon.com/robby",
       "tech": []
@@ -3455,7 +3455,7 @@
       "name": "risk danger olson",
       "company": "GitHub",
       "bio": ":metal:",
-      "twitter": "",
+      "twitter": "technoweenie",
       "medium": "",
       "blog": "http://techno-weenie.net",
       "tech": []
@@ -3495,7 +3495,7 @@
       "name": "Sebastian Markbåge",
       "company": "Facebook",
       "bio": "",
-      "twitter": "",
+      "twitter": "sebmarkbage",
       "medium": "",
       "blog": "http://blog.calyptus.eu/",
       "tech": []
@@ -3505,7 +3505,7 @@
       "name": "Phil Haack",
       "company": "GitHub",
       "bio": ":rice_scene:\r\n \r\nNot much to say that I haven't said at http://haacked.com/about/\r\n\r\n:moyai: ",
-      "twitter": "",
+      "twitter": "Haacked",
       "medium": "",
       "blog": "http://haacked.com/",
       "tech": []
@@ -3535,7 +3535,7 @@
       "name": "Tyler McGinnis",
       "company": "@ReactTraining ",
       "bio": "Partner @ReactTraining. @google Developer Expert. @eggheadio Instructor. @javascriptair co-host. React Newsletter.",
-      "twitter": "",
+      "twitter": "tylermcginnis",
       "medium": "",
       "blog": "http://twitter.com/tylermcginnis33",
       "tech": []
@@ -3545,7 +3545,7 @@
       "name": "Wenjie Fan",
       "company": "Anime World",
       "bio": "ACG-Oriented Front-end Developer.",
-      "twitter": "",
+      "twitter": "DIYgod",
       "medium": "",
       "blog": "https://www.anotherhome.net",
       "tech": []
@@ -3585,7 +3585,7 @@
       "name": "Peteris Krumins",
       "company": "Browserling",
       "bio": "CEO Browserling Inc. Future rich person and ace programmer.",
-      "twitter": "",
+      "twitter": "pkrumins",
       "medium": "",
       "blog": "http://www.catonmat.net",
       "tech": []
@@ -3595,7 +3595,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "aymericdamien",
       "medium": "",
       "blog": "",
       "tech": []
@@ -3605,7 +3605,7 @@
       "name": "Rasmus",
       "company": "Figma",
       "bio": "",
-      "twitter": "",
+      "twitter": "rsms",
       "medium": "",
       "blog": "https://rsms.me/",
       "tech": []
@@ -3615,7 +3615,7 @@
       "name": "Ken Thompson",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "ken",
       "medium": "",
       "blog": "",
       "tech": []
@@ -3635,7 +3635,7 @@
       "name": "Andrey Sitnik",
       "company": "@evilmartians ",
       "bio": "Author of Autoprefixer and PostCSS",
-      "twitter": "",
+      "twitter": "ai",
       "medium": "",
       "blog": "http://sitnik.ru",
       "tech": []
@@ -3665,7 +3665,7 @@
       "name": "Dave Cheney",
       "company": "CSRF for social change",
       "bio": "",
-      "twitter": "",
+      "twitter": "davecheney",
       "medium": "",
       "blog": "http://dave.cheney.net/",
       "tech": []
@@ -3675,7 +3675,7 @@
       "name": "Rick Waldron",
       "company": "bocoup",
       "bio": "",
-      "twitter": "",
+      "twitter": "rwaldron",
       "medium": "",
       "blog": "http://weblog.bocoup.com",
       "tech": []
@@ -3685,7 +3685,7 @@
       "name": "Alessandro Crugnola",
       "company": "Adobe",
       "bio": "",
-      "twitter": "",
+      "twitter": "sephiroth74",
       "medium": "",
       "blog": "http://www.sephiroth.it",
       "tech": []
@@ -3695,7 +3695,7 @@
       "name": "Marco Pivetta",
       "company": "Marco Pivetta Software Development",
       "bio": "",
-      "twitter": "",
+      "twitter": "Ocramius",
       "medium": "",
       "blog": "https://ocramius.github.io/",
       "tech": []
@@ -3745,7 +3745,7 @@
       "name": "HE Shi-Jun",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "hax",
       "medium": "",
       "blog": "http://johnhax.net/",
       "tech": []
@@ -3755,7 +3755,7 @@
       "name": "Travis Neilson",
       "company": "Tubular Labs",
       "bio": "",
-      "twitter": "",
+      "twitter": "travisneilson",
       "medium": "",
       "blog": "http://travisneilson.com",
       "tech": []
@@ -3765,7 +3765,7 @@
       "name": "Chris Granger",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "ibdknox",
       "medium": "",
       "blog": "chris-granger.com",
       "tech": []
@@ -3795,7 +3795,7 @@
       "name": "Fedor Indutny",
       "company": "PayPal",
       "bio": "While being kept on ice in a Cryostasis Chamber, Fedor Indutny was held in the HYDRA Siberian Facility alongside other Winter Soldiers...",
-      "twitter": "",
+      "twitter": "indutny",
       "medium": "",
       "blog": "http://darksi.de/",
       "tech": []
@@ -3805,7 +3805,7 @@
       "name": "Dominic Tarr",
       "company": "Mad Science",
       "bio": "cruiser not a racer",
-      "twitter": "",
+      "twitter": "dominictarr",
       "medium": "",
       "blog": "http://twitter.com/dominictarr",
       "tech": []
@@ -3815,7 +3815,7 @@
       "name": "Daniel Roy Greenfeld",
       "company": "Cartwheel Web",
       "bio": "Husband of @audreyr 💘\r\n\r\nCo-Author of Two Scoops of Django, open source developer, former NASA engineer",
-      "twitter": "",
+      "twitter": "pydanny",
       "medium": "",
       "blog": "http://pydanny.com",
       "tech": []
@@ -3825,7 +3825,7 @@
       "name": "Mislav Marohnić",
       "company": "",
       "bio": "=(◉ᴥ◉)=",
-      "twitter": "",
+      "twitter": "mislav",
       "medium": "",
       "blog": "http://mislav.net",
       "tech": []
@@ -3835,7 +3835,7 @@
       "name": "Flavien Laurent",
       "company": "Fourmob",
       "bio": "",
-      "twitter": "",
+      "twitter": "flavienlaurent",
       "medium": "",
       "blog": "http://www.flavienlaurent.com",
       "tech": []
@@ -3855,7 +3855,7 @@
       "name": "John Myles White",
       "company": "Facebook",
       "bio": "",
-      "twitter": "",
+      "twitter": "johnmyleswhite",
       "medium": "",
       "blog": "http://www.johnmyleswhite.com",
       "tech": []
@@ -3875,7 +3875,7 @@
       "name": "Gina Trapani",
       "company": "Postlight / ThinkUp, LLC",
       "bio": "Director of Engineering @postlight / Founder @ThinkUpLLC ",
-      "twitter": "",
+      "twitter": "ginatrapani",
       "medium": "",
       "blog": "http://ginatrapani.org",
       "tech": []
@@ -3885,7 +3885,7 @@
       "name": "Erik Michaels-Ober",
       "company": "Instacart",
       "bio": "",
-      "twitter": "",
+      "twitter": "sferik",
       "medium": "",
       "blog": "http://twitter.com/sferik",
       "tech": []
@@ -3895,7 +3895,7 @@
       "name": "hzlzh",
       "company": "Tencent, WeChat",
       "bio": "迷路的鸽子啊...",
-      "twitter": "",
+      "twitter": "hzlzh",
       "medium": "",
       "blog": "http://hzlzh.io/",
       "tech": []
@@ -3945,7 +3945,7 @@
       "name": "David Fowler",
       "company": "Microsoft",
       "bio": "",
-      "twitter": "",
+      "twitter": "davidfowl",
       "medium": "",
       "blog": "http://davidfowl.com/",
       "tech": []
@@ -3965,7 +3965,7 @@
       "name": "Dayle Rees",
       "company": "Crowdcube",
       "bio": "",
-      "twitter": "",
+      "twitter": "daylerees",
       "medium": "",
       "blog": "http://www.daylerees.com",
       "tech": []
@@ -4005,7 +4005,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "jacobian",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4025,7 +4025,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "barryvdh",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4045,7 +4045,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "codeguy",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4075,7 +4075,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "dlew",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4095,7 +4095,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "brendangregg",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4105,7 +4105,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "ogrisel",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4135,7 +4135,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "jxnblk",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4145,7 +4145,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "mackenziechild",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4155,7 +4155,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "phuslu",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4165,7 +4165,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "bang590",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4195,7 +4195,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "akitaonrails",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4215,7 +4215,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "keyboardsurfer",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4245,7 +4245,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "typicode",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4255,7 +4255,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "JedWatson",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4275,7 +4275,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "zpao",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4285,7 +4285,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "scottjehl",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4355,7 +4355,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "rtomayko",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4365,7 +4365,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "vinta",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4375,7 +4375,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "SamyPesse",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4385,7 +4385,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "gabrielecirulli",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4395,7 +4395,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "vjeux",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4405,7 +4405,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "alexjlockwood",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4415,7 +4415,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "miyagawa",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4435,7 +4435,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "soulwire",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4445,7 +4445,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "geerlingguy",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4455,7 +4455,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "juliemr",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4475,7 +4475,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "jgthms",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4485,7 +4485,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "trustedsec",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4495,7 +4495,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "josh",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4535,7 +4535,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "tmm1",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4545,7 +4545,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "DanWahlin",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4585,7 +4585,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "rmurphey",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4605,7 +4605,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "orta",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4615,7 +4615,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "una",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4645,7 +4645,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "gregkh",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4665,7 +4665,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "paullewis",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4675,7 +4675,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "ded",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4715,7 +4715,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "unconed",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4725,7 +4725,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "migueldeicaza",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4735,7 +4735,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "SlexAxton",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4755,7 +4755,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "rvagg",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4795,7 +4795,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "Sentdex",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4815,7 +4815,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "benjchristensen",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4855,7 +4855,7 @@
       "name": "James Burke",
       "company": "Mozilla",
       "bio": "",
-      "twitter": "",
+      "twitter": "jrburke",
       "medium": "",
       "blog": "http://jrburke.com",
       "tech": []
@@ -4875,7 +4875,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "stubbornella",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4895,7 +4895,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "evanw",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4915,7 +4915,7 @@
       "name": "Alon Zakai",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "kripken",
       "medium": "",
       "blog": "",
       "tech": []
@@ -4965,7 +4965,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "caolan",
       "medium": "",
       "blog": "",
       "tech": []
@@ -5005,7 +5005,7 @@
       "name": "题叶",
       "company": "@eleme ",
       "bio": "FP, GUI & Writing",
-      "twitter": "",
+      "twitter": "jiyinyiyong",
       "medium": "",
       "blog": "http://tiye.me/",
       "tech": []
@@ -5015,7 +5015,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "Marak",
       "medium": "",
       "blog": "http://marak.com",
       "tech": []
@@ -5035,7 +5035,7 @@
       "name": "Pascal Precht",
       "company": "@thoughtram",
       "bio": "I like coding, skateboarding and art. Co-Founder of thoughtram",
-      "twitter": "",
+      "twitter": "PascalPrecht",
       "medium": "",
       "blog": "http://pascalprecht.github.io",
       "tech": []
@@ -5065,7 +5065,7 @@
       "name": "Vladimir Agafonkin",
       "company": "Mapbox",
       "bio": "Engineer at @Mapbox, building mapping tools of the future. Creator of @Leaflet. Algorithms geek, rock musician, fitness enthusiast, father of twin girls.",
-      "twitter": "",
+      "twitter": "mourner",
       "medium": "",
       "blog": "http://agafonkin.com/en",
       "tech": []
@@ -5075,7 +5075,7 @@
       "name": "Tom MacWright",
       "company": "@mapbox",
       "bio": "",
-      "twitter": "",
+      "twitter": "tmcw",
       "medium": "",
       "blog": "http://macwright.org/",
       "tech": []
@@ -5085,7 +5085,7 @@
       "name": "Xin Liu",
       "company": "V2EX",
       "bio": "",
-      "twitter": "",
+      "twitter": "livid",
       "medium": "",
       "blog": "http://www.v2ex.com/",
       "tech": []
@@ -5095,7 +5095,7 @@
       "name": "0xAX",
       "company": "@travelping ",
       "bio": "",
-      "twitter": "",
+      "twitter": "0xAX",
       "medium": "",
       "blog": "https://twitter.com/0xAX",
       "tech": []
@@ -5105,7 +5105,7 @@
       "name": "Jared Hanson",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "jaredhanson",
       "medium": "",
       "blog": "http://jaredhanson.net",
       "tech": []
@@ -5115,7 +5115,7 @@
       "name": "Jason Davies",
       "company": "Jason Davies Ltd",
       "bio": "",
-      "twitter": "",
+      "twitter": "jasondavies",
       "medium": "",
       "blog": "http://www.jasondavies.com/",
       "tech": []
@@ -5125,7 +5125,7 @@
       "name": "Dave Smith",
       "company": "Google",
       "bio": "IoT @ Google",
-      "twitter": "",
+      "twitter": "devunwired",
       "medium": "",
       "blog": "http://wiresareobsolete.com",
       "tech": []
@@ -5155,7 +5155,7 @@
       "name": "Ternsip",
       "company": "",
       "bio": "I will go into survival mode if tickled",
-      "twitter": "",
+      "twitter": "ternsip",
       "medium": "",
       "blog": "",
       "tech": []
@@ -5175,7 +5175,7 @@
       "name": "Dave Rupert",
       "company": "Paravel",
       "bio": "Lead developer at Paravel. Purveyor of tiny jQueries.",
-      "twitter": "",
+      "twitter": "davatron5000",
       "medium": "",
       "blog": "http://daverupert.com",
       "tech": []
@@ -5195,7 +5195,7 @@
       "name": "Brian Lonsdorf",
       "company": "loop/recur",
       "bio": "",
-      "twitter": "",
+      "twitter": "DrBoolean",
       "medium": "",
       "blog": "",
       "tech": []
@@ -5215,7 +5215,7 @@
       "name": "Roman Efimov",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "romaonthego",
       "medium": "",
       "blog": "twitter.com/romaonthego",
       "tech": []
@@ -5245,7 +5245,7 @@
       "name": "Ben Tristem",
       "company": "EmbraceIT Ltd.",
       "bio": "Teaching the world to make great games, one student at a time.",
-      "twitter": "",
+      "twitter": "BenTristem",
       "medium": "",
       "blog": "https://www.udemy.com/u/bentristem",
       "tech": []
@@ -5255,7 +5255,7 @@
       "name": "Matt DesLauriers",
       "company": "Jam3",
       "bio": "",
-      "twitter": "",
+      "twitter": "mattdesl",
       "medium": "",
       "blog": "https://twitter.com/mattdesl",
       "tech": []
@@ -5265,7 +5265,7 @@
       "name": "Vincent Driessen",
       "company": "3rd Cloud",
       "bio": "",
-      "twitter": "",
+      "twitter": "nvie",
       "medium": "",
       "blog": "http://nvie.com",
       "tech": []
@@ -5285,7 +5285,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "TheLarkInn",
       "medium": "",
       "blog": "",
       "tech": []
@@ -5295,7 +5295,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "x0rz",
       "medium": "",
       "blog": "",
       "tech": []
@@ -5305,7 +5305,7 @@
       "name": "James Long",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "jlongster",
       "medium": "",
       "blog": "http://jlongster.com",
       "tech": []
@@ -5325,7 +5325,7 @@
       "name": "Olivier Poitrey",
       "company": "Netflix",
       "bio": "",
-      "twitter": "",
+      "twitter": "rs",
       "medium": "",
       "blog": "",
       "tech": []
@@ -5355,7 +5355,7 @@
       "name": "xiaolai",
       "company": "xiaolai",
       "bio": "",
-      "twitter": "",
+      "twitter": "xiaolai",
       "medium": "",
       "blog": "http://xiaolai.li",
       "tech": []
@@ -5365,7 +5365,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "marcoarment",
       "medium": "",
       "blog": "",
       "tech": []
@@ -5375,7 +5375,7 @@
       "name": "Charlie Robbins",
       "company": "GoDaddy",
       "bio": "",
-      "twitter": "",
+      "twitter": "indexzero",
       "medium": "",
       "blog": "http://sudomakethought.com",
       "tech": []
@@ -5385,7 +5385,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "pjreddie",
       "medium": "",
       "blog": "",
       "tech": []
@@ -5405,7 +5405,7 @@
       "name": "Anthony Ferrara",
       "company": "Grovo",
       "bio": "Director of Engineering for @GrovoLearning",
-      "twitter": "",
+      "twitter": "ircmaxell",
       "medium": "",
       "blog": "http://blog.ircmaxell.com/",
       "tech": []
@@ -5415,7 +5415,7 @@
       "name": "David Cramer",
       "company": "Sentry",
       "bio": "founder/ceo @getsentry",
-      "twitter": "",
+      "twitter": "dcramer",
       "medium": "",
       "blog": "http://cramer.io",
       "tech": []
@@ -5435,7 +5435,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "odersky",
       "medium": "",
       "blog": "",
       "tech": []
@@ -5455,7 +5455,7 @@
       "name": "Arunoda Susiripala",
       "company": "Kadira Inc.",
       "bio": "",
-      "twitter": "",
+      "twitter": "arunoda",
       "medium": "",
       "blog": "https://kadira.io",
       "tech": []
@@ -5465,7 +5465,7 @@
       "name": "Bruno Candido Volpato da Cunha",
       "company": "TOTVS",
       "bio": "☕️  💻  ",
-      "twitter": "",
+      "twitter": "brunocvcunha",
       "medium": "",
       "blog": "https://brunocvcunha.github.io/",
       "tech": []
@@ -5475,7 +5475,7 @@
       "name": "Christopher Harrison",
       "company": "Microsoft",
       "bio": "",
-      "twitter": "",
+      "twitter": "GeekTrainer",
       "medium": "",
       "blog": "blog.geektrainer.com",
       "tech": []
@@ -5505,7 +5505,7 @@
       "name": "Will Bond",
       "company": "@codexns and @sublimehq",
       "bio": "Author of Package Control for @sublimehq, now working on Sublime Text itself. Likes crypto. Proud husband and father.",
-      "twitter": "",
+      "twitter": "wbond",
       "medium": "",
       "blog": "https://wbond.net",
       "tech": []
@@ -5515,7 +5515,7 @@
       "name": "Hugo Giraudel",
       "company": "Edenspiekermann",
       "bio": "Writing a bio is the worst.",
-      "twitter": "",
+      "twitter": "HugoGiraudel",
       "medium": "",
       "blog": "http://hugogiraudel.com",
       "tech": []
@@ -5545,7 +5545,7 @@
       "name": "Ionică Bizău",
       "company": "@Bloggify @cdnjs @nodejs ",
       "bio": "Programmer, Geek,  *nix user, Pianist, College Dropout, Learner, Mentor, Vegetarian, Jesus follower, Founder and CEO of @Bloggify ",
-      "twitter": "",
+      "twitter": "IonicaBizau",
       "medium": "",
       "blog": "http://ionicabizau.net",
       "tech": []
@@ -5555,7 +5555,7 @@
       "name": "Sam Saccone",
       "company": "Google",
       "bio": "",
-      "twitter": "",
+      "twitter": "samccone",
       "medium": "",
       "blog": "",
       "tech": []
@@ -5565,7 +5565,7 @@
       "name": "Dave Gamache",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "dhg",
       "medium": "",
       "blog": "www.davegamache.com",
       "tech": []
@@ -5585,7 +5585,7 @@
       "name": "Steve Losh",
       "company": "Reykjavík University",
       "bio": "Computers are dumpsters.",
-      "twitter": "",
+      "twitter": "sjl",
       "medium": "",
       "blog": "http://stevelosh.com",
       "tech": []
@@ -5595,7 +5595,7 @@
       "name": "Zhouxuan Yang",
       "company": "Alipay",
       "bio": "",
-      "twitter": "",
+      "twitter": "fool2fish",
       "medium": "",
       "blog": "http://fool2fish.cn",
       "tech": []
@@ -5605,7 +5605,7 @@
       "name": "Huang Xuan",
       "company": "null, [Alibaba, Wepiao]",
       "bio": "Yet Another Web Developer. \r\nSelf identifies as one of Team Web",
-      "twitter": "",
+      "twitter": "Huxpro",
       "medium": "",
       "blog": "http://huangxuan.me",
       "tech": []
@@ -5615,7 +5615,7 @@
       "name": "Алексей",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "agragregra",
       "medium": "",
       "blog": "http://webdesign-master.ru",
       "tech": []
@@ -5635,7 +5635,7 @@
       "name": "Anders Hoff",
       "company": "",
       "bio": "Generative artist / Shepherd of random numbers",
-      "twitter": "",
+      "twitter": "inconvergent",
       "medium": "",
       "blog": "http://inconvergent.net",
       "tech": []
@@ -5645,7 +5645,7 @@
       "name": "byt3bl33d3r",
       "company": "",
       "bio": "I swear I had something for this...",
-      "twitter": "",
+      "twitter": "byt3bl33d3r",
       "medium": "",
       "blog": "https://byt3bl33d3r.github.io",
       "tech": []
@@ -5675,7 +5675,7 @@
       "name": "Jannis Leidel",
       "company": "Mozilla",
       "bio": "Engineer working for @Mozilla's Data Tools team. @django team member, @jazzband roadie, @pypa alum. Writer of apps, releaser of sources, eventually consistent.",
-      "twitter": "",
+      "twitter": "jezdez",
       "medium": "",
       "blog": "https://twitter.com/jezdez/",
       "tech": []
@@ -5695,7 +5695,7 @@
       "name": "Jordan Harband",
       "company": "Airbnb",
       "bio": "software engineer/nerd/teacher/will try anything once; surgeon with git rebase. @Airbnb @TC39, ex @Twitter @MobBase @TripIt. Fav punctuation ⸮, scent petrichor.",
-      "twitter": "",
+      "twitter": "ljharb",
       "medium": "",
       "blog": "https://twitter.com/ljharb",
       "tech": []
@@ -5735,7 +5735,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "xoreaxeaxeax",
       "medium": "",
       "blog": "",
       "tech": []
@@ -5805,7 +5805,7 @@
       "name": "Paul Miller",
       "company": "@hellyeahllc. Hire us.",
       "bio": "Making projects which help engineers to build awesome things.",
-      "twitter": "",
+      "twitter": "paulmillr",
       "medium": "",
       "blog": "paulmillr.com",
       "tech": []
@@ -5835,7 +5835,7 @@
       "name": "Daniel Miessler",
       "company": "IOActive",
       "bio": "infosec | technology | humans",
-      "twitter": "",
+      "twitter": "danielmiessler",
       "medium": "",
       "blog": "https://danielmiessler.com/",
       "tech": []
@@ -5865,7 +5865,7 @@
       "name": "Josh Abernathy",
       "company": "GitHub",
       "bio": "",
-      "twitter": "",
+      "twitter": "joshaber",
       "medium": "",
       "blog": "http://twitter.com/joshaber",
       "tech": []
@@ -5875,7 +5875,7 @@
       "name": "Rob Fuller",
       "company": "@Room362 ",
       "bio": "Certified Checkbox Unchecker",
-      "twitter": "",
+      "twitter": "mubix",
       "medium": "",
       "blog": "https://room362.com/",
       "tech": []
@@ -5885,7 +5885,7 @@
       "name": "Chiu-Ki Chan",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "chiuki",
       "medium": "",
       "blog": "http://blog.sqisland.com",
       "tech": []
@@ -5925,7 +5925,7 @@
       "name": "Christopher Jenkins",
       "company": "@owlr-com & Jenx Solutions Limited",
       "bio": "",
-      "twitter": "",
+      "twitter": "chrisjenx",
       "medium": "",
       "blog": "http://chrisjenx.com",
       "tech": []
@@ -5935,7 +5935,7 @@
       "name": "bret",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "worrydream",
       "medium": "",
       "blog": "http://worrydream.com",
       "tech": []
@@ -5965,7 +5965,7 @@
       "name": "Rafael França",
       "company": "Shopify",
       "bio": "",
-      "twitter": "",
+      "twitter": "rafaelfranca",
       "medium": "",
       "blog": "",
       "tech": []
@@ -5975,7 +5975,7 @@
       "name": "Cassidy Williams",
       "company": "L4 Digital",
       "bio": "Senior Software Engineer @L4Digital.",
-      "twitter": "",
+      "twitter": "cassidoo",
       "medium": "",
       "blog": "http://cassidoo.co",
       "tech": []
@@ -5995,7 +5995,7 @@
       "name": "Adam Wathan",
       "company": "",
       "bio": "Developer, powerlifter and Slayer fan. Host of the Full Stack Radio podcast, author of Refactoring to Collections, and creator of Nitpick CI.",
-      "twitter": "",
+      "twitter": "adamwathan",
       "medium": "",
       "blog": "",
       "tech": []
@@ -6005,7 +6005,7 @@
       "name": "Oliver Gierke",
       "company": "Pivotal Software, Inc.",
       "bio": "Spring Data Project Lead @ Pivotal, OpenSource enthusiast, all things Spring, data, DDD, REST and software architecture. Musician, producer... Soul Power!",
-      "twitter": "",
+      "twitter": "olivergierke",
       "medium": "",
       "blog": "www.olivergierke.de",
       "tech": []
@@ -6025,7 +6025,7 @@
       "name": "Steve Smith",
       "company": "Box Out Sports, 123 Studio",
       "bio": "Product designer and engineer. Creator of gifwit.com. I speak about design and technology, and occasionally write at orderedlist.com.",
-      "twitter": "",
+      "twitter": "orderedlist",
       "medium": "",
       "blog": "http://orderedlist.com",
       "tech": []
@@ -6055,7 +6055,7 @@
       "name": "Jim Huang",
       "company": "SSXelerator",
       "bio": "",
-      "twitter": "",
+      "twitter": "jserv",
       "medium": "",
       "blog": "http://about.me/jserv",
       "tech": []
@@ -6065,7 +6065,7 @@
       "name": "Reynold Xin",
       "company": "Databricks",
       "bio": "",
-      "twitter": "",
+      "twitter": "rxin",
       "medium": "",
       "blog": "http://rxin.org",
       "tech": []
@@ -6075,7 +6075,7 @@
       "name": "Yigit Boyar",
       "company": "Google",
       "bio": "",
-      "twitter": "",
+      "twitter": "yigit",
       "medium": "",
       "blog": "birbit.com",
       "tech": []
@@ -6085,7 +6085,7 @@
       "name": "Damian Edwards",
       "company": "Microsoft",
       "bio": "",
-      "twitter": "",
+      "twitter": "DamianEdwards",
       "medium": "",
       "blog": "http://damianedwards.com",
       "tech": []
@@ -6115,7 +6115,7 @@
       "name": "Rob Eisenberg",
       "company": "Microsoft",
       "bio": "Sr. Program Manager @Microsoft . Creator of Caliburn.Micro, Durandal and Aurelia.",
-      "twitter": "",
+      "twitter": "EisenbergEffect",
       "medium": "",
       "blog": "http://www.robeisenberg.com",
       "tech": []
@@ -6135,7 +6135,7 @@
       "name": "Jérôme Petazzoni",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "jpetazzo",
       "medium": "",
       "blog": "jpetazzo.github.io",
       "tech": []
@@ -6155,7 +6155,7 @@
       "name": "Álvaro",
       "company": "",
       "bio": "Web developer with love for beautiful stuff.\r\nhttps://twitter.com/imac2",
-      "twitter": "",
+      "twitter": "alvarotrigo",
       "medium": "",
       "blog": "http://alvarotrigo.com",
       "tech": []
@@ -6165,7 +6165,7 @@
       "name": "Thiago Avelino",
       "company": "@nuveo @filmow ",
       "bio": "Entrepreneur (and investor) Founder at @nuveo and Co-Founder at @filmow, Was a developer for a few years, since 2011 entrepreneur",
-      "twitter": "",
+      "twitter": "avelino",
       "medium": "",
       "blog": "http://avelino.xxx",
       "tech": []
@@ -6195,7 +6195,7 @@
       "name": "Mike Perham",
       "company": "Contributed Systems",
       "bio": "I'm the author and maintainer of Sidekiq, Sidekiq Pro and Sidekiq Enterprise, the background job framework for Ruby.  See http://sidekiq.org for more info.",
-      "twitter": "",
+      "twitter": "mperham",
       "medium": "",
       "blog": "http://www.mikeperham.com",
       "tech": []
@@ -6205,7 +6205,7 @@
       "name": "Mariotaku",
       "company": "@CatchChat ",
       "bio": "",
-      "twitter": "",
+      "twitter": "mariotaku",
       "medium": "",
       "blog": "https://mariotaku.org",
       "tech": []
@@ -6215,7 +6215,7 @@
       "name": "John Freddy Vega",
       "company": "Cristalab",
       "bio": "",
-      "twitter": "",
+      "twitter": "freddier",
       "medium": "",
       "blog": "http://www.cristalab.com/",
       "tech": []
@@ -6235,7 +6235,7 @@
       "name": "Tom Dale",
       "company": "@monegraph ",
       "bio": "",
-      "twitter": "",
+      "twitter": "tomdale",
       "medium": "",
       "blog": "http://tomdale.net",
       "tech": []
@@ -6245,7 +6245,7 @@
       "name": "Adam Bien",
       "company": "adam-bien.com",
       "bio": "I'm (adam-bien.com) working with Java technology since JDK 1.0 and with Servlets/EJB since 1.0. Sometimes I deliver workshops at MUC airport: airhacks.com.",
-      "twitter": "",
+      "twitter": "AdamBien",
       "medium": "",
       "blog": "adam-bien.com",
       "tech": []
@@ -6265,7 +6265,7 @@
       "name": "Justin Palmer",
       "company": "GitHub",
       "bio": "Become one with the data.  ",
-      "twitter": "",
+      "twitter": "Caged",
       "medium": "",
       "blog": "http://labratrevenge.com",
       "tech": []
@@ -6285,7 +6285,7 @@
       "name": "Ben Nadel",
       "company": "Kinky Solutions",
       "bio": "",
-      "twitter": "",
+      "twitter": "bennadel",
       "medium": "",
       "blog": "http://www.bennadel.com",
       "tech": []
@@ -6305,7 +6305,7 @@
       "name": "Ayende Rahien",
       "company": "Hibernating Rhinos",
       "bio": "",
-      "twitter": "",
+      "twitter": "ayende",
       "medium": "",
       "blog": "http://ayende.com/Blog/",
       "tech": []
@@ -6325,7 +6325,7 @@
       "name": "Jordan W",
       "company": "Facebook, ReactJS",
       "bio": "",
-      "twitter": "",
+      "twitter": "jordwalke",
       "medium": "",
       "blog": "https://twitter.com/jordwalke",
       "tech": []
@@ -6335,7 +6335,7 @@
       "name": "Tommy Chen",
       "company": "Dcard",
       "bio": "",
-      "twitter": "",
+      "twitter": "tommy351",
       "medium": "",
       "blog": "http://zespia.tw",
       "tech": []
@@ -6355,7 +6355,7 @@
       "name": "Denis Pakhaliuk",
       "company": "Ramotion Inc.",
       "bio": "CEO @Ramotion. http://instagram.com/pakhaliuk/",
-      "twitter": "",
+      "twitter": "Pakhaliuk",
       "medium": "",
       "blog": "https://business.ramotion.com",
       "tech": []
@@ -6375,7 +6375,7 @@
       "name": "Andrew Nesbitt",
       "company": "@librariesio ",
       "bio": "Creator of @DependencyCI, @Librariesio, @24pullrequests and @splitrb 🚢 ",
-      "twitter": "",
+      "twitter": "andrew",
       "medium": "",
       "blog": "http://nesbitt.io",
       "tech": []
@@ -6385,7 +6385,7 @@
       "name": "Brian Gesiak",
       "company": "Facebook",
       "bio": "Swift committer and creator of @Quick, the Swift (and Objective-C) testing framework. Former Japanese literature translator.",
-      "twitter": "",
+      "twitter": "modocache",
       "medium": "",
       "blog": "http://modocache.io",
       "tech": []
@@ -6395,7 +6395,7 @@
       "name": "Phil Hagelberg",
       "company": "Atreus Keyboards",
       "bio": "I sell DIY keyboards. A lot of my more recent code is on https://gitlab.com/technomancy",
-      "twitter": "",
+      "twitter": "technomancy",
       "medium": "",
       "blog": "http://technomancy.us",
       "tech": []
@@ -6415,7 +6415,7 @@
       "name": "Kyle Fuller",
       "company": "Apiary",
       "bio": "",
-      "twitter": "",
+      "twitter": "kylef",
       "medium": "",
       "blog": "https://fuller.li/",
       "tech": []
@@ -6425,7 +6425,7 @@
       "name": "Carlos Azaustre",
       "company": "@Chefly ",
       "bio": "FullStack JavaScript Developer.\r\nCTO/Co-Founder at @Chefly.\r\nTechnical Blogger and Writter.\r\nTeacher at @platzi ",
-      "twitter": "",
+      "twitter": "carlosazaustre",
       "medium": "",
       "blog": "https://carlosazaustre.es/blog/",
       "tech": []
@@ -6435,7 +6435,7 @@
       "name": "Pascal Hartig",
       "company": "Facebook, Ex-@Twitter, TodoMVC, @TasteJS, @Yeoman",
       "bio": "Used to have a big number on my profile, now just a lot of green boxes.",
-      "twitter": "",
+      "twitter": "passy",
       "medium": "",
       "blog": "https://passy.me",
       "tech": []
@@ -6465,7 +6465,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "nixzhu",
       "medium": "",
       "blog": "https://twitter.com/nixzhu",
       "tech": []
@@ -6485,7 +6485,7 @@
       "name": "Chiyuan Zhang",
       "company": "MIT",
       "bio": "",
-      "twitter": "",
+      "twitter": "pluskid",
       "medium": "",
       "blog": "http://pluskid.org",
       "tech": []
@@ -6505,7 +6505,7 @@
       "name": "Avdi Grimm",
       "company": "ShipRise",
       "bio": "",
-      "twitter": "",
+      "twitter": "avdi",
       "medium": "",
       "blog": "http://avdi.org/devblog/",
       "tech": []
@@ -6515,7 +6515,7 @@
       "name": "Christian Heilmann",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "codepo8",
       "medium": "",
       "blog": "http://wait-till-i.com",
       "tech": []
@@ -6525,7 +6525,7 @@
       "name": "Paul Betts",
       "company": "Tiny Speck",
       "bio": "Margot Tenenbaum as software developer.",
-      "twitter": "",
+      "twitter": "paulcbetts",
       "medium": "",
       "blog": "https://twitter.com/paulcbetts",
       "tech": []
@@ -6535,7 +6535,7 @@
       "name": "Winnie",
       "company": "Facebook",
       "bio": "",
-      "twitter": "",
+      "twitter": "Stitchpunk",
       "medium": "",
       "blog": "https://facebook.com",
       "tech": []
@@ -6545,7 +6545,7 @@
       "name": "Bryan O'Sullivan",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "bos",
       "medium": "",
       "blog": "http://www.serpentine.com/blog/",
       "tech": []
@@ -6555,7 +6555,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "hunkim",
       "medium": "",
       "blog": "",
       "tech": []
@@ -6595,7 +6595,7 @@
       "name": "Matthias Käppler",
       "company": "SoundCloud Ltd.",
       "bio": "",
-      "twitter": "",
+      "twitter": "mttkay",
       "medium": "",
       "blog": "http://mttkay.github.io",
       "tech": []
@@ -6605,7 +6605,7 @@
       "name": "Jim Weirich",
       "company": "Neo",
       "bio": "",
-      "twitter": "",
+      "twitter": "jimweirich",
       "medium": "",
       "blog": "http://onestepback.org",
       "tech": []
@@ -6615,7 +6615,7 @@
       "name": "Dr Nic Williams",
       "company": "Stark & Wayne LLC",
       "bio": "",
-      "twitter": "",
+      "twitter": "drnic",
       "medium": "",
       "blog": "http://drnicwilliams.com",
       "tech": []
@@ -6625,7 +6625,7 @@
       "name": "Rob Conery",
       "company": "BigMachine",
       "bio": "",
-      "twitter": "",
+      "twitter": "robconery",
       "medium": "",
       "blog": "http://wekeroad.com",
       "tech": []
@@ -6635,7 +6635,7 @@
       "name": "Meng To",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "MengTo",
       "medium": "",
       "blog": "mengto.com",
       "tech": []
@@ -6665,7 +6665,7 @@
       "name": "Matt Gemmell",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "mattgemmell",
       "medium": "",
       "blog": "http://mattgemmell.com/",
       "tech": []
@@ -6695,7 +6695,7 @@
       "name": "Richard Schneeman",
       "company": "",
       "bio": "Lings, muta, ultra",
-      "twitter": "",
+      "twitter": "schneems",
       "medium": "",
       "blog": "http://www.schneems.com",
       "tech": []
@@ -6705,7 +6705,7 @@
       "name": "Christian Van Der Henst S.",
       "company": "Mejorando.la INC",
       "bio": "",
-      "twitter": "",
+      "twitter": "cvander",
       "medium": "",
       "blog": "http://mejorando.la",
       "tech": []
@@ -6715,7 +6715,7 @@
       "name": "Ryan Bigg",
       "company": "@cultureamp",
       "bio": "Award-winning super-hero published author with a Ruby addiction and an interest in Elixir. ",
-      "twitter": "",
+      "twitter": "radar",
       "medium": "",
       "blog": "http://ryanbigg.com",
       "tech": []
@@ -6735,7 +6735,7 @@
       "name": "Yo-An Lin",
       "company": "Corneltek",
       "bio": "a developer who really love crafting tools",
-      "twitter": "",
+      "twitter": "c9s",
       "medium": "",
       "blog": "http://corneltek.com",
       "tech": []
@@ -6745,7 +6745,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "hak5darren",
       "medium": "",
       "blog": "",
       "tech": []
@@ -6765,7 +6765,7 @@
       "name": "John Nunemaker",
       "company": "GitHub, Inc.",
       "bio": "I kill network calls for a living. ",
-      "twitter": "",
+      "twitter": "jnunemaker",
       "medium": "",
       "blog": "http://johnnunemaker.com",
       "tech": []
@@ -6785,7 +6785,7 @@
       "name": "Thomas Wiecki",
       "company": "Quantopian",
       "bio": "",
-      "twitter": "",
+      "twitter": "twiecki",
       "medium": "",
       "blog": "https://plus.google.com/107323607569066774338/about",
       "tech": []
@@ -6795,7 +6795,7 @@
       "name": "Kris Kowal",
       "company": "",
       "bio": "Open sourcerer.",
-      "twitter": "",
+      "twitter": "kriskowal",
       "medium": "",
       "blog": "http://codi.sh",
       "tech": []
@@ -6825,7 +6825,7 @@
       "name": "Reg Braithwaite",
       "company": "@PagerDuty",
       "bio": "@pagerduty, formerly @github, @unspace, devtopia, kl group/sitraka, codestorm, publishing revenue partners. javascript allongé, what i learned from failure, &c.",
-      "twitter": "",
+      "twitter": "raganwald",
       "medium": "",
       "blog": "http://braythwayt.com",
       "tech": []
@@ -6835,7 +6835,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "yegor256",
       "medium": "",
       "blog": "",
       "tech": []
@@ -6885,7 +6885,7 @@
       "name": "Gael Varoquaux",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "GaelVaroquaux",
       "medium": "",
       "blog": "gael-varoquaux.info",
       "tech": []
@@ -6925,7 +6925,7 @@
       "name": "Edwin Chen",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "echen",
       "medium": "",
       "blog": "http://blog.echen.me",
       "tech": []
@@ -6965,7 +6965,7 @@
       "name": "Ryan Petrich",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "rpetrich",
       "medium": "",
       "blog": "http://rpetri.ch/",
       "tech": []
@@ -6975,7 +6975,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "noopkat",
       "medium": "",
       "blog": "",
       "tech": []
@@ -6985,7 +6985,7 @@
       "name": "PatrickJS",
       "company": "@AngularClass",
       "bio": "Co-Founder of @AngularClass\r\nhttps://angularclass.com\r\n@gdi2290 on Twitter & Medium\r\nOpen Source (@angular, @webpack, @angularclass)",
-      "twitter": "",
+      "twitter": "gdi2290",
       "medium": "",
       "blog": "http://angularclass.com",
       "tech": []
@@ -6995,7 +6995,7 @@
       "name": "David Beazley",
       "company": "Dabeaz, LLC",
       "bio": "I dabble in Python. ",
-      "twitter": "",
+      "twitter": "dabeaz",
       "medium": "",
       "blog": "http://www.dabeaz.com",
       "tech": []
@@ -7005,7 +7005,7 @@
       "name": "Bo-Yi Wu",
       "company": "",
       "bio": "I really believe committing every day on an open source project is the best practice.",
-      "twitter": "",
+      "twitter": "appleboy",
       "medium": "",
       "blog": "http://about.me/appleboy",
       "tech": []
@@ -7035,7 +7035,7 @@
       "name": "Jeremy Saenz",
       "company": "Kajabi",
       "bio": "",
-      "twitter": "",
+      "twitter": "codegangsta",
       "medium": "",
       "blog": "http://codegangsta.io",
       "tech": []
@@ -7055,7 +7055,7 @@
       "name": "Nando Vieira",
       "company": "@heroku",
       "bio": "",
-      "twitter": "",
+      "twitter": "fnando",
       "medium": "",
       "blog": "http://nandovieira.com",
       "tech": []
@@ -7065,7 +7065,7 @@
       "name": "Natasha Murashev",
       "company": "",
       "bio": "🐥🤖",
-      "twitter": "",
+      "twitter": "NatashaTheRobot",
       "medium": "",
       "blog": "natashatherobot.com",
       "tech": []
@@ -7075,7 +7075,7 @@
       "name": "Mike McNeil",
       "company": "Treeline",
       "bio": "creator of sails.js",
-      "twitter": "",
+      "twitter": "mikermcneil",
       "medium": "",
       "blog": "http://mikermcneil.com",
       "tech": []
@@ -7105,7 +7105,7 @@
       "name": "Brad Larson",
       "company": "Sunset Lake Software LLC",
       "bio": "",
-      "twitter": "",
+      "twitter": "BradLarson",
       "medium": "",
       "blog": "http://www.sunsetlakesoftware.com",
       "tech": []
@@ -7125,7 +7125,7 @@
       "name": "Joseph Misiti",
       "company": "Math & Pencil ",
       "bio": "Mathematician & Co-founder of Math & Pencil",
-      "twitter": "",
+      "twitter": "josephmisiti",
       "medium": "",
       "blog": "http://blog.josephmisiti.com/",
       "tech": []
@@ -7135,7 +7135,7 @@
       "name": "Yoshua Wuyts",
       "company": "@datproject ",
       "bio": "✨✨ HELLO THERE HUMANS ✨✨✨✨✨ 🙆 MAD ENGINEERING 🙆 OPEN SOURCE 🙆 BUSINESS TIME 🙆",
-      "twitter": "",
+      "twitter": "yoshuawuyts",
       "medium": "",
       "blog": "https://yoshuawuyts.com",
       "tech": []
@@ -7145,7 +7145,7 @@
       "name": "Richard Davey",
       "company": "Photon Storm Ltd",
       "bio": "Full time HTML5 Game Developer and creator of Phaser, Atari otaku, Retro Gaming Geek, child of the 80s, demoscener, anime and pixel art fan.",
-      "twitter": "",
+      "twitter": "photonstorm",
       "medium": "",
       "blog": "www.photonstorm.com",
       "tech": []
@@ -7165,7 +7165,7 @@
       "name": "Mikola Lysenko",
       "company": "bits cooperative",
       "bio": "Working on WebGL, data visualization, computational geometry and scientific computing at https://bits.coop",
-      "twitter": "",
+      "twitter": "mikolalysenko",
       "medium": "",
       "blog": "http://0fps.net",
       "tech": []
@@ -7195,7 +7195,7 @@
       "name": "Hannes Dorfmann",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "sockeqwe",
       "medium": "",
       "blog": "http://www.hannesdorfmann.com",
       "tech": []
@@ -7215,7 +7215,7 @@
       "name": "脉脉不得语",
       "company": "CompanyNotFoundException",
       "bio": "",
-      "twitter": "",
+      "twitter": "inferjay",
       "medium": "",
       "blog": "http://www.inferjay.com",
       "tech": []
@@ -7235,7 +7235,7 @@
       "name": "Jan Lehnardt",
       "company": "Neighbourhoodie Software",
       "bio": "",
-      "twitter": "",
+      "twitter": "janl",
       "medium": "",
       "blog": "http://neighbourhood.ie",
       "tech": []
@@ -7255,7 +7255,7 @@
       "name": "Rob Allen",
       "company": "@19ft",
       "bio": "",
-      "twitter": "",
+      "twitter": "akrabat",
       "medium": "",
       "blog": "http://akrabat.com",
       "tech": []
@@ -7275,7 +7275,7 @@
       "name": "Ashish Kedia",
       "company": "NITK Surathkal",
       "bio": "Web Solutions Engineer at Google, Hyderabad.\r\nA lot of my work is hosted @Bug-Assassins",
-      "twitter": "",
+      "twitter": "ashish1294",
       "medium": "",
       "blog": "https://www.ashishkedia.me",
       "tech": []
@@ -7295,7 +7295,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "cpojer",
       "medium": "",
       "blog": "",
       "tech": []
@@ -7305,7 +7305,7 @@
       "name": "Limboy",
       "company": "Mogujie",
       "bio": "",
-      "twitter": "",
+      "twitter": "lzyy",
       "medium": "",
       "blog": "http://limboy.me",
       "tech": []
@@ -7315,7 +7315,7 @@
       "name": "Sam Vermette",
       "company": "Transit App",
       "bio": "",
-      "twitter": "",
+      "twitter": "samvermette",
       "medium": "",
       "blog": "http://samvermette.com",
       "tech": []
@@ -7335,7 +7335,7 @@
       "name": "Chris Eidhof",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "chriseidhof",
       "medium": "",
       "blog": "http://www.eidhof.nl",
       "tech": []
@@ -7345,7 +7345,7 @@
       "name": "Mary Rose Cook",
       "company": "@makersacademy ",
       "bio": "I’m making Code Lauren (game programming for beginners). I made Gitlet, Isla, Empty Black and Pistol Slut.",
-      "twitter": "",
+      "twitter": "maryrosecook",
       "medium": "",
       "blog": "https://maryrosecook.com",
       "tech": []
@@ -7355,7 +7355,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "JohnSundell",
       "medium": "",
       "blog": "",
       "tech": []
@@ -7365,7 +7365,7 @@
       "name": "Gavin Andresen",
       "company": "Clearwing Software",
       "bio": "",
-      "twitter": "",
+      "twitter": "gavinandresen",
       "medium": "",
       "blog": "http://gavinthink.blogspot.com",
       "tech": []
@@ -7375,7 +7375,7 @@
       "name": "ideawu",
       "company": "C/C++, PHP, Web, Mobile",
       "bio": "Hi",
-      "twitter": "",
+      "twitter": "ideawu",
       "medium": "",
       "blog": "http://www.ideawu.net/",
       "tech": []
@@ -7405,7 +7405,7 @@
       "name": "Ryan Seys",
       "company": "@google ",
       "bio": "☀️☀️☀️",
-      "twitter": "",
+      "twitter": "ryanseys",
       "medium": "",
       "blog": "https://ryanseys.com",
       "tech": []
@@ -7425,7 +7425,7 @@
       "name": "Rodrigo Branas",
       "company": "Agile Code",
       "bio": "",
-      "twitter": "",
+      "twitter": "rodrigobranas",
       "medium": "",
       "blog": "http://www.youtube.com/rodrigobranas",
       "tech": []
@@ -7465,7 +7465,7 @@
       "name": "Davies Liu",
       "company": "Databricks",
       "bio": "",
-      "twitter": "",
+      "twitter": "davies",
       "medium": "",
       "blog": "",
       "tech": []
@@ -7485,7 +7485,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "unicodeveloper",
       "medium": "",
       "blog": "",
       "tech": []
@@ -7505,7 +7505,7 @@
       "name": "Jake Verbaten",
       "company": "Uber",
       "bio": "",
-      "twitter": "",
+      "twitter": "Raynos",
       "medium": "",
       "blog": "http://github.com/Raynos",
       "tech": []
@@ -7545,7 +7545,7 @@
       "name": "Ayaka Ikezawa",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "ikeay",
       "medium": "",
       "blog": "",
       "tech": []
@@ -7555,7 +7555,7 @@
       "name": "Ian Lunn",
       "company": "Ian Lunn Design Limited",
       "bio": "Front-end Developer producing high quality responsive websites and exceptional user experience. Author of CSS3 Foundations. Creator of Hover.css & Sequence.js.",
-      "twitter": "",
+      "twitter": "IanLunn",
       "medium": "",
       "blog": "http://ianlunn.co.uk/",
       "tech": []
@@ -7565,7 +7565,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "iluwatar",
       "medium": "",
       "blog": "",
       "tech": []
@@ -7595,7 +7595,7 @@
       "name": "Robert Böhnke",
       "company": "Apple",
       "bio": "It's dangerous to go alone,​ take this: 💙",
-      "twitter": "",
+      "twitter": "robb",
       "medium": "",
       "blog": "http://robb.is/",
       "tech": []
@@ -7605,7 +7605,7 @@
       "name": "Kent Beck",
       "company": "Three Rivers Institute",
       "bio": "",
-      "twitter": "",
+      "twitter": "KentBeck",
       "medium": "",
       "blog": "www.threeriversinstitute.org/blog",
       "tech": []
@@ -7615,7 +7615,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "mzabriskie",
       "medium": "",
       "blog": "",
       "tech": []
@@ -7625,7 +7625,7 @@
       "name": "Shekhar Gulati",
       "company": "",
       "bio": "Programmer",
-      "twitter": "",
+      "twitter": "shekhargulati",
       "medium": "",
       "blog": "https://twitter.com/shekhargulati",
       "tech": []
@@ -7645,7 +7645,7 @@
       "name": "Jafar Husain",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "jhusain",
       "medium": "",
       "blog": "",
       "tech": []
@@ -7695,7 +7695,7 @@
       "name": "Filippo Valsorda",
       "company": "@Cloudflare",
       "bio": "I mess with cryptography. urandom ambassador. @Cloudflare Crypto Team. That Heartbleed guy. I write Go and talk about it. HS/RC F'13.",
-      "twitter": "",
+      "twitter": "FiloSottile",
       "medium": "",
       "blog": "https://blog.filippo.io",
       "tech": []
@@ -7705,7 +7705,7 @@
       "name": "Yi-Ting Cheng",
       "company": "GrowthSchool",
       "bio": "",
-      "twitter": "",
+      "twitter": "xdite",
       "medium": "",
       "blog": "http://blog.xdite.net",
       "tech": []
@@ -7735,7 +7735,7 @@
       "name": "Steven Sanderson",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "SteveSanderson",
       "medium": "",
       "blog": "blog.stevensanderson.com",
       "tech": []
@@ -7855,7 +7855,7 @@
       "name": "Raymond Hill",
       "company": "",
       "bio": "_",
-      "twitter": "",
+      "twitter": "gorhill",
       "medium": "",
       "blog": "",
       "tech": []
@@ -7875,7 +7875,7 @@
       "name": "Zhi Cun",
       "company": "lu.com",
       "bio": "Coding 🐒  from China,  JavaScript ❤️  Node.js  ❤️   CoffeeScript.",
-      "twitter": "",
+      "twitter": "island205",
       "medium": "",
       "blog": "http://qianduan.guru",
       "tech": []
@@ -7885,7 +7885,7 @@
       "name": "Vladimir Kharlampidi",
       "company": "iDangero.us",
       "bio": "",
-      "twitter": "",
+      "twitter": "nolimits4web",
       "medium": "",
       "blog": "http://www.idangero.us",
       "tech": []
@@ -7915,7 +7915,7 @@
       "name": "Aaron Swartz",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "aaronsw",
       "medium": "",
       "blog": "http://www.aaronsw.com/",
       "tech": []
@@ -7955,7 +7955,7 @@
       "name": "Dmytro Danylyk",
       "company": "Timee",
       "bio": "Hello. I am Android Google Developer Expert. I live in Lviv - a quaint and beautiful city. I am passionate about android and flat design.",
-      "twitter": "",
+      "twitter": "dmytrodanylyk",
       "medium": "",
       "blog": "http://dmytrodanylyk.com",
       "tech": []
@@ -7965,7 +7965,7 @@
       "name": "Kyle Robinson Young",
       "company": "YNAB.",
       "bio": "🐻 ",
-      "twitter": "",
+      "twitter": "shama",
       "medium": "",
       "blog": "http://dontkry.com",
       "tech": []
@@ -7975,7 +7975,7 @@
       "name": "Ilya Kantor",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "iliakan",
       "medium": "",
       "blog": "http://javascript.ru",
       "tech": []
@@ -7985,7 +7985,7 @@
       "name": "Grant Skinner",
       "company": "gskinner.com",
       "bio": "",
-      "twitter": "",
+      "twitter": "gskinner",
       "medium": "",
       "blog": "http://gskinner.com/blog/",
       "tech": []
@@ -8005,7 +8005,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "LeonidasEsteban",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8025,7 +8025,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "HelloZeroNet",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8055,7 +8055,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "jhaddix",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8095,7 +8095,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "jordansissel",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8105,7 +8105,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "ahmetb",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8125,7 +8125,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "memo",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8205,7 +8205,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "MugunthKumar",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8215,7 +8215,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "chriseppstein",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8245,7 +8245,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "benoitc",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8285,7 +8285,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "pahimar",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8305,7 +8305,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "lotem",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8315,7 +8315,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "armon",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8325,7 +8325,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "f",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8335,7 +8335,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "ornicar",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8345,7 +8345,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "benjamn",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8355,7 +8355,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "icanzilb",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8375,7 +8375,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "lilydjwg",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8405,7 +8405,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "hardmaru",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8415,7 +8415,7 @@
       "name": "Brian Chan",
       "company": "Liferay, Inc.",
       "bio": "",
-      "twitter": "",
+      "twitter": "brianchandotcom",
       "medium": "",
       "blog": "http://www.liferay.com/web/brian.chan/blog",
       "tech": []
@@ -8425,7 +8425,7 @@
       "name": "Derick Bailey",
       "company": "Muted Solutions, LLC",
       "bio": "",
-      "twitter": "",
+      "twitter": "derickbailey",
       "medium": "",
       "blog": "http://derickbailey.com",
       "tech": []
@@ -8435,7 +8435,7 @@
       "name": "Julian Garnier",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "juliangarnier",
       "medium": "",
       "blog": "http://www.juliangarnier.com/",
       "tech": []
@@ -8465,7 +8465,7 @@
       "name": "dennis zhuang",
       "company": "leancloud.cn",
       "bio": "To be a good man.",
-      "twitter": "",
+      "twitter": "killme2008",
       "medium": "",
       "blog": "http://fnil.net",
       "tech": []
@@ -8475,7 +8475,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "erikras",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8495,7 +8495,7 @@
       "name": "Egor Homakov",
       "company": "Sakurity",
       "bio": "I fix authentication and the Internet.\r\n\r\nWe do penetration tests, source code audit and vulnerability assessment.",
-      "twitter": "",
+      "twitter": "homakov",
       "medium": "",
       "blog": "http://sakurity.com",
       "tech": []
@@ -8505,7 +8505,7 @@
       "name": "Limor \"Ladyada\" Fried",
       "company": "Adafruit Industries",
       "bio": "",
-      "twitter": "",
+      "twitter": "ladyada",
       "medium": "",
       "blog": "ladyada.net",
       "tech": []
@@ -8515,7 +8515,7 @@
       "name": "Randall Degges",
       "company": "Stormpath",
       "bio": "I'm just a happy programmer that likes to hack stuff.",
-      "twitter": "",
+      "twitter": "rdegges",
       "medium": "",
       "blog": "https://www.rdegges.com",
       "tech": []
@@ -8545,7 +8545,7 @@
       "name": "Henrique Bastos",
       "company": "",
       "bio": "Interested in autonomy hacking",
-      "twitter": "",
+      "twitter": "henriquebastos",
       "medium": "",
       "blog": "http://henriquebastos.net",
       "tech": []
@@ -8575,7 +8575,7 @@
       "name": "Bodil Stokke",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "bodil",
       "medium": "",
       "blog": "https://bodil.lol/",
       "tech": []
@@ -8605,7 +8605,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "nelsonic",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8625,7 +8625,7 @@
       "name": "Ben Orenstein",
       "company": "thoughtbot",
       "bio": "",
-      "twitter": "",
+      "twitter": "r00k",
       "medium": "",
       "blog": "http://www.benorenstein.com",
       "tech": []
@@ -8645,7 +8645,7 @@
       "name": "Orhan Obut",
       "company": "Blacklane",
       "bio": "Android Google Developer Expert",
-      "twitter": "",
+      "twitter": "orhanobut",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8665,7 +8665,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "kaushikgopal",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8795,7 +8795,7 @@
       "name": "Brandon Keepers",
       "company": "GitHub",
       "bio": "",
-      "twitter": "",
+      "twitter": "bkeepers",
       "medium": "",
       "blog": "http://opensoul.org",
       "tech": []
@@ -8855,7 +8855,7 @@
       "name": "Henrik Joreteg",
       "company": "Human Media, LLC",
       "bio": "",
-      "twitter": "",
+      "twitter": "HenrikJoreteg",
       "medium": "",
       "blog": "http://joreteg.com",
       "tech": []
@@ -8885,7 +8885,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "minimaxir",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8895,7 +8895,7 @@
       "name": "Colin Eberhardt",
       "company": "Scott Logic",
       "bio": "",
-      "twitter": "",
+      "twitter": "ColinEberhardt",
       "medium": "",
       "blog": "http://www.scottlogic.com",
       "tech": []
@@ -8905,7 +8905,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "simurai",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8915,7 +8915,7 @@
       "name": "Pete R.",
       "company": "BucketListly",
       "bio": "",
-      "twitter": "",
+      "twitter": "peachananr",
       "medium": "",
       "blog": "http://www.thepetedesign.com",
       "tech": []
@@ -8925,7 +8925,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "michalbe",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8935,7 +8935,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "xqq",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8945,7 +8945,7 @@
       "name": "Vicent Martí",
       "company": "GitHub",
       "bio": "Principal Engineer & Systems Engineering Manager at @GitHub.",
-      "twitter": "",
+      "twitter": "vmg",
       "medium": "",
       "blog": "http://twitter.com/vmg",
       "tech": []
@@ -8965,7 +8965,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "bytemaster",
       "medium": "",
       "blog": "",
       "tech": []
@@ -8975,7 +8975,7 @@
       "name": "Connor Sears",
       "company": "GitHub",
       "bio": "Building @GitHub. Formerly at @Twitter and @Pinterest. Kentucky moonshiner. I bless the rains down in Africa.",
-      "twitter": "",
+      "twitter": "connors",
       "medium": "",
       "blog": "http://connor.town",
       "tech": []
@@ -8985,7 +8985,7 @@
       "name": "Brian LeRoux",
       "company": "Small Wins",
       "bio": "Previously worked on PhoneGap and Cordova pushing the edges of the mobile web around. Now doing a bot called Begin with Small Wins. ✨🔰 ",
-      "twitter": "",
+      "twitter": "brianleroux",
       "medium": "",
       "blog": "http://brian.io",
       "tech": []
@@ -8995,7 +8995,7 @@
       "name": "Stefan Penner",
       "company": "@LinkedIn",
       "bio": "",
-      "twitter": "",
+      "twitter": "stefanpenner",
       "medium": "",
       "blog": "http://iamstef.net/",
       "tech": []
@@ -9015,7 +9015,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "petewarden",
       "medium": "",
       "blog": "",
       "tech": []
@@ -9025,7 +9025,7 @@
       "name": "Grigory Bakunov",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "bobuk",
       "medium": "",
       "blog": "http://twitter.com/bobuk",
       "tech": []
@@ -9035,7 +9035,7 @@
       "name": "Udi Cohen",
       "company": "Facebook",
       "bio": "",
-      "twitter": "",
+      "twitter": "Udinic",
       "medium": "",
       "blog": "http://www.udinic.com",
       "tech": []
@@ -9065,7 +9065,7 @@
       "name": "Joe Hewitt",
       "company": "Facebook",
       "bio": "",
-      "twitter": "",
+      "twitter": "joehewitt",
       "medium": "",
       "blog": "http://www.joehewitt.com/",
       "tech": []
@@ -9075,7 +9075,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "siddontang",
       "medium": "",
       "blog": "",
       "tech": []
@@ -9095,7 +9095,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "bebraw",
       "medium": "",
       "blog": "",
       "tech": []
@@ -9105,7 +9105,7 @@
       "name": "Axel Rauschmayer",
       "company": "2ality consulting",
       "bio": "",
-      "twitter": "",
+      "twitter": "rauschma",
       "medium": "",
       "blog": "http://rauschma.de/",
       "tech": []
@@ -9145,7 +9145,7 @@
       "name": "Nicolas Gramlich",
       "company": "Luxe",
       "bio": "",
-      "twitter": "",
+      "twitter": "nicolasgramlich",
       "medium": "",
       "blog": "http://www.luxe.com",
       "tech": []
@@ -9155,7 +9155,7 @@
       "name": "Geoffrey Grosenbach",
       "company": "Pluralsight",
       "bio": "Entrepreneur, developer, designer, teacher, athlete. Founder of PeepCode Screencasts. VP of Content Innovation at Pluralsight video training.",
-      "twitter": "",
+      "twitter": "topfunky",
       "medium": "",
       "blog": "https://www.topfunky.com",
       "tech": []
@@ -9165,7 +9165,7 @@
       "name": "三水清",
       "company": "Baidu",
       "bio": "",
-      "twitter": "",
+      "twitter": "ksky521",
       "medium": "",
       "blog": "http://js8.in",
       "tech": []
@@ -9195,7 +9195,7 @@
       "name": "Mark Dalgleish",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "markdalgleish",
       "medium": "",
       "blog": "markdalgleish.com",
       "tech": []
@@ -9205,7 +9205,7 @@
       "name": "Blake Mizerany",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "bmizerany",
       "medium": "",
       "blog": "",
       "tech": []
@@ -9215,7 +9215,7 @@
       "name": "",
       "company": "",
       "bio": "",
-      "twitter": "",
+      "twitter": "fogus",
       "medium": "",
       "blog": "",
       "tech": []

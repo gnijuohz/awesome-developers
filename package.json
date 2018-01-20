@@ -11,6 +11,7 @@
     "eslint-config-google": "^0.9.1"
   },
   "dependencies": {
-    "octonode": "^0.9.1"
+    "octonode": "^0.9.1",
+    "twit": "^2.2.9"
   }
 }

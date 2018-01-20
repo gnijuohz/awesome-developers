@@ -8,6 +8,10 @@
     "rules": {
         "indent": ["error", 2],
         "object-curly-spacing": ["error", "always"],
-        "semi":"error"
+        "semi": "error",
+        "require-jsdoc": "off"
+    },
+    "parserOptions": {
+        "ecmaVersion": 2017
     }
 }
