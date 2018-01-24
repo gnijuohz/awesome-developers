@@ -11,7 +11,7 @@ The list is located in \`people.json\` and is sorted by GitHub followers count.
 A lot of stuff is currently missing and contribution is welcome.
 
 | Name | GitHub | Twitter | Medium | Blog |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 `;
 
 readme = fs.createWriteStream('README.md');
@@ -25,12 +25,12 @@ for (const person of people) {
   line = `| ${name} | [GitHub](${githubURL})`;
 
   line += ` | `;
-  if (twitter) line += `[Twitter](https://twitter.com/${twitter})`;
+  line += twitter ? `[Twitter](https://twitter.com/${twitter})` : '   ';
   line += ` | `;
-  if (medium) line += `[Medium](https://medium.com/@${medium})`;
+  line += medium ? `[Medium](https://medium.com/@${medium})`: '   ';
   line += ` | `;
-  if (blog) line += `[Blog](${blog})`;
-  line += '| \n';
+  line += blog ? `[Blog](${blog})` : '   ';
+  line += '|\n';
   readme.write(line);
 }
 
