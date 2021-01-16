@@ -205,7 +205,7 @@ A lot of stuff is currently missing and contribution is welcome.
 | Nicolás Bevacqua | [GitHub](https://github.com/bevacqua) |     |     | [Blog](https://ponyfoo.com)|
 | Simon Vig Therkildsen | [GitHub](https://github.com/SimonVT) |     |     | [Blog](simonvt.net)|
 | Alex MacCaw | [GitHub](https://github.com/maccman) | [Twitter](https://twitter.com/maccman) |     | [Blog](http://alexmaccaw.com)|
-| James K | [GitHub](https://github.com/thejameskyle) | [Twitter](https://twitter.com/thejameskyle) |     |    |
+| James K | [GitHub](https://github.com/jamiebuilds) | [Twitter](https://twitter.com/buildsghost) |     |    |
 | Mikeal Rogers | [GitHub](https://github.com/mikeal) | [Twitter](https://twitter.com/mikeal) |     | [Blog](http://mikealrogers.com)|
 | Justin Johnson | [GitHub](https://github.com/jcjohnson) | [Twitter](https://twitter.com/jcjohnson) |     | [Blog](http://cs.stanford.edu/people/jcjohns/)|
 | Mathias Buus | [GitHub](https://github.com/mafintosh) | [Twitter](https://twitter.com/mafintosh) |     | [Blog](https://github.com/mafintosh)|
